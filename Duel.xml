@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<Root_Node UI_File_Name="Duel.xml">
+	<Style Style="65536" />
+	<BaseWndProperty WindowID="1" WindowHeight="0" WindowWidth="0">
+		<BackGroundMap BGmap="Slot32.dds" />
+		<Container_Node Child_Cnt="3">
+			<Style CtrlType="33554432" />
+			<BaseWndProperty WindowID="2" WindowHeight="0" WindowWidth="0">
+				<BaseCtrlProperty FontColor="0" FontStyle="0" />
+				<TextNode TextAlign="0" />
+			</BaseWndProperty>
+			<Style CtrlType="33554432" />
+			<BaseWndProperty WindowID="3" WindowHeight="0" WindowWidth="0">
+				<BaseCtrlProperty FontColor="0" FontStyle="0" />
+				<TextNode TextAlign="0" />
+			</BaseWndProperty>
+			<Style CtrlType="33554432" />
+			<BaseWndProperty WindowID="4" WindowHeight="0" WindowWidth="0">
+				<BaseCtrlProperty  FontColor="0" FontStyle="0" />
+				<TextNode TextAlign="0" />
+			</BaseWndProperty>
+		</Container_Node>
+	</BaseWndProperty>
+</Root_Node>

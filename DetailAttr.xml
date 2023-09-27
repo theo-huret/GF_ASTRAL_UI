@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<Root_Node UI_File_Name="DetailAttr.xml">
+	<Style Style="65536" Description="Interface" />
+	<BaseWndProperty WindowID="1" WindowHeight="310" WindowWidth="354">
+		<BackGroundMap BGmap="Slot32.dds" />
+		<Container_Node Child_Cnt="14">
+			<Style CtrlType="268435456" Description="Haut interface" />
+			<BaseWndProperty WindowID="1001" WindowTop="56" WindowHeight="310" WindowWidth="282">
+				<BackGroundMap BGmap="uiobj18.dds">
+					<NorUV NorUVLeft="659" NorUVTop="483" NorUVWidth="310" NorUVHeight="1" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" Description="Milieu interface visuelle" />
+			<BaseWndProperty WindowID="1002" WindowHeight="310" WindowWidth="56">
+				<BackGroundMap BGmap="uiobj18.dds">
+					<NorUV NorUVLeft="659" NorUVTop="426" NorUVWidth="310" NorUVHeight="56" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" Description="Bas interface visuelle" />
+			<BaseWndProperty WindowID="1003" WindowTop="338" WindowHeight="310" WindowWidth="16">
+				<BackGroundMap BGmap="uiobj18.dds">
+					<NorUV NorUVLeft="659" NorUVTop="485" NorUVWidth="310" NorUVHeight="16" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="262144" Description="Bouton croix x" />
+			<BaseWndProperty WindowID="4002" WindowLeft="289" WindowTop="5" WindowHeight="13" WindowWidth="12">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="618" NorUVTop="64" NorUVWidth="13" NorUVHeight="12" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="632" FocusUVTop="64" FocusUVWidth="13" FocusUVHeight="12" />
+					<DownUV DownUVLeft="646" DownUVTop="64" DownUVWidth="13" DownUVHeight="12" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="262144" Description="Bouton scroll vers le haut" />
+			<BaseWndProperty WindowID="2003" WindowHeight="0" WindowWidth="0">
+				<ButtonNode BtnState="0" />
+			</BaseWndProperty>
+			<Style CtrlType="262144" Description="Bouton scroll vers le bas" />
+			<BaseWndProperty WindowID="2004" WindowHeight="0" WindowWidth="0">
+				<ButtonNode BtnState="0" />
+			</BaseWndProperty>
+			<Style CtrlType="2097152" Description="Scroll bar" />
+			<BaseWndProperty WindowID="2002" WindowLeft="15" WindowTop="56" WindowHeight="279" WindowWidth="282" Visible="1">
+				<BackGroundMap BGmap="main.dds" />
+				<TrackNode>
+					<ThumbUV ThumbUVLeft="503" ThumbUVTop="600" ThumbUVWidth="279" ThumbUVHeight="1" />
+				</TrackNode>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" Description="Marge de hauteur avant sections" />
+			<BaseWndProperty WindowID="2005" WindowLeft="15" WindowTop="55" WindowHeight="284" WindowWidth="267">
+				<BackGroundMap BGmap="Slot32.dds" />
+			</BaseWndProperty>
+			<Style CtrlType="268435456" Description="Marge de largeur avant sections" />
+			<BaseWndProperty WindowID="2001" WindowLeft="15" WindowTop="55" WindowHeight="284" WindowWidth="267">
+				<BackGroundMap BGmap="Slot32.dds" />
+			</BaseWndProperty>
+			<Style CtrlType="131072" Description="Onglet attribut d'attaque" />
+			<BaseWndProperty WindowID="3001" WindowLeft="23" WindowTop="28" WindowHeight="84" WindowWidth="18">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVTop="411" NorUVWidth="84" NorUVHeight="18" />
+				</BackGroundMap>
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<ButtonNode BtnState="0">
+					<DisableUV DisableUVTop="392" DisableUVWidth="84" DisableUVHeight="18" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="131072" Description="Onglet attribut DEF" />
+			<BaseWndProperty WindowID="3002" WindowLeft="106" WindowTop="28" WindowHeight="84" WindowWidth="18">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVTop="411" NorUVWidth="84" NorUVHeight="18" />
+				</BackGroundMap>
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<ButtonNode BtnState="0">
+					<DisableUV DisableUVTop="392" DisableUVWidth="84" DisableUVHeight="18" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="131072" Description="Onglet autres attributs" />
+			<BaseWndProperty WindowID="3003" WindowLeft="189" WindowTop="28" WindowHeight="84" WindowWidth="18">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVTop="411" NorUVWidth="84" NorUVHeight="18" />
+				</BackGroundMap>
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<ButtonNode BtnState="0">
+					<DisableUV DisableUVTop="392" DisableUVWidth="84" DisableUVHeight="18" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="262144" Description="Bouton Aide " />
+			<BaseWndProperty WindowID="3004" WindowLeft="268" WindowTop="3" WindowHeight="16" WindowWidth="16">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="999" NorUVTop="71" NorUVWidth="16" NorUVHeight="16" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="999" FocusUVTop="88" FocusUVWidth="16" FocusUVHeight="16" />
+					<DownUV DownUVLeft="999" DownUVTop="105" DownUVWidth="16" DownUVHeight="16" />
+					<DisableUV DisableUVLeft="999" DisableUVTop="122" DisableUVWidth="16" DisableUVHeight="16" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="33554432" Description="Titre" />
+			<BaseWndProperty WindowID="4001" WindowLeft="134" WindowTop="11" WindowHeight="0" WindowWidth="0">
+				<BaseCtrlProperty FontColor="65535" FontStyle="1" />
+				<TextNode TextAlign="1" MultiLine="0" />
+			</BaseWndProperty>
+		</Container_Node>
+	</BaseWndProperty>
+</Root_Node>

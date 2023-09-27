@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<Root_Node UI_File_Name="ScreenMessage.xml">
+	<Style Style="65536" />
+	<BaseWndProperty WindowID="1" WindowHeight="480" WindowWidth="40">
+		<BackGroundMap BGmap="Slot32.dds" />
+		<Container_Node Child_Cnt="10">
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="100" WindowHeight="482" WindowWidth="42">
+				<BackGroundMap BGmap="ScreenMessageAlpha.dds">
+					<NorUV NorUVWidth="1" NorUVHeight="1" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style ParentNode="100" CtrlType="268435456" />
+			<BaseWndProperty WindowID="110" WindowLeft="1" WindowTop="1" WindowHeight="256" WindowWidth="32">
+				<BackGroundMap BGmap="Slot32.dds">
+					<NorUV NorUVWidth="256" NorUVHeight="32" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style ParentNode="100" CtrlType="33554432" />
+			<BaseWndProperty WindowID="1000" WindowLeft="1" WindowTop="1" WindowHeight="480" WindowWidth="18">
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<TextNode TextAlign="0" />
+			</BaseWndProperty>
+			<Style ParentNode="100" CtrlType="33554432" />
+			<BaseWndProperty WindowID="1001" WindowLeft="1" WindowTop="21" WindowHeight="480" WindowWidth="18">
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<TextNode TextAlign="0" />
+			</BaseWndProperty>
+			<Style ParentNode="100" CtrlType="33554432" />
+			<BaseWndProperty WindowID="2000" WindowLeft="1" WindowTop="0" WindowHeight="80" WindowWidth="0">
+				<BaseCtrlProperty FontColor="0" FontStyle="0" />
+				<TextNode TextAlign="0" />
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="200" WindowHeight="0" WindowWidth="0">
+				<BackGroundMap BGmap="Slot32.dds" />
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="300" WindowTop="72" WindowHeight="100" WindowWidth="22">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="5" NorUVTop="11" NorUVWidth="1" NorUVHeight="1" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style ParentNode="300" CtrlType="33554432" />
+			<BaseWndProperty WindowID="3000" WindowLeft="1" WindowTop="74" WindowHeight="80" WindowWidth="18">
+				<BaseCtrlProperty FontColor="0" FontStyle="0" />
+				<TextNode TextAlign="0" />
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="400" WindowTop="100" WindowHeight="100" WindowWidth="22">
+				<BackGroundMap BGmap="Slot32.dds" />
+			</BaseWndProperty>
+			<Style ParentNode="400" CtrlType="33554432" />
+			<BaseWndProperty WindowID="4000" WindowLeft="1" WindowTop="111" WindowHeight="0" WindowWidth="0">
+				<BaseCtrlProperty FontColor="0" FontStyle="0" />
+				<TextNode TextAlign="0" />
+			</BaseWndProperty>
+		</Container_Node>
+	</BaseWndProperty>
+</Root_Node>

@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<Root_Node UI_File_Name="ContractWnd.xml" Texture_Path="" Screen_X="1024" Screen_Y="768">
+    <Style Style="65536" />
+    <BaseWndProperty WindowID="1" WindowText="" WindowLeft="0" WindowTop="0" WindowHeight="300" WindowWidth="427" Visible="1" FixSize="0" Drag="0" Drop="0">
+        <BackGroundMap BGmap="uiobj02.dds">
+            <NorUV NorUVLeft="545" NorUVTop="438" NorUVWidth="300" NorUVHeight="427" />
+        </BackGroundMap>
+        <Container_Node Child_Cnt="7">
+            <Style ParentNode="1" CtrlType="16777216" />
+            <BaseWndProperty WindowID="2" WindowText="" WindowLeft="25" WindowTop="50" WindowHeight="250" WindowWidth="310" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="0" NorUVHeight="0" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="0" FontStyle="0" />
+                <EditNode ReadOnly="1" />
+                <MultiEditNode />
+            </BaseWndProperty>
+            <Style ParentNode="2" CtrlType="262144" />
+            <BaseWndProperty WindowID="3" WindowText="關閉" WindowLeft="210" WindowTop="387" WindowHeight="64" WindowWidth="18" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="main.dds">
+                    <NorUV NorUVLeft="734" NorUVTop="204" NorUVWidth="64" NorUVHeight="18" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="16777215" FontStyle="1" />
+                <ButtonNode BtnState="0">
+                    <FocusUV FocusUVLeft="734" FocusUVTop="226" FocusUVWidth="64" FocusUVHeight="18" />
+                    <DownUV DownUVLeft="734" DownUVTop="248" DownUVWidth="64" DownUVHeight="18" />
+                    <DisableUV DisableUVLeft="734" DisableUVTop="270" DisableUVWidth="64" DisableUVHeight="18" />
+                </ButtonNode>
+            </BaseWndProperty>
+            <Style ParentNode="1" CtrlType="33554432" />
+            <BaseWndProperty WindowID="4" WindowText="標題" WindowLeft="13" WindowTop="2" WindowHeight="200" WindowWidth="18" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="0" NorUVHeight="0" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="9" FontColor="65535" FontStyle="1" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+			<Style ParentNode="1" CtrlType="2097152" />
+            <BaseWndProperty WindowID="5" WindowText="" WindowLeft="267" WindowTop="53" WindowHeight="11" WindowWidth="306" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="main.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="0" NorUVHeight="0" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="0" FontStyle="0" />
+                <TrackNode Max="100" Min="0" cur="0" Page="50">
+                    <ThumbUV ThumbUVLeft="986" ThumbUVTop="300" ThumbUVWidth="11" ThumbUVHeight="40" />
+                </TrackNode>
+            </BaseWndProperty>
+			<Style ParentNode="1" CtrlType="262144" />
+            <BaseWndProperty WindowID="6" WindowText="" WindowLeft="270" WindowTop="4" WindowHeight="16" WindowWidth="15" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="main.dds">
+                    <NorUV NorUVLeft="931" NorUVTop="337" NorUVWidth="16" NorUVHeight="15" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="16777215" FontStyle="0" />
+                <ButtonNode BtnState="0">
+                    <FocusUV FocusUVLeft="949" FocusUVTop="337" FocusUVWidth="16" FocusUVHeight="15" />
+                    <DownUV DownUVLeft="967" DownUVTop="337" DownUVWidth="16" DownUVHeight="15" />
+                    <DisableUV DisableUVLeft="967" DisableUVTop="337" DisableUVWidth="16" DisableUVHeight="15" />
+                </ButtonNode>
+            </BaseWndProperty>
+			<Style ParentNode="1" CtrlType="262144" />
+            <BaseWndProperty WindowID="7" WindowText="" WindowLeft="266" WindowTop="43" WindowHeight="13" WindowWidth="9" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="main.dds">
+                    <NorUV NorUVLeft="933" NorUVTop="312" NorUVWidth="13" NorUVHeight="9" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="16777215" FontStyle="0" />
+                <ButtonNode BtnState="0">
+                    <FocusUV FocusUVLeft="933" FocusUVTop="312" FocusUVWidth="13" FocusUVHeight="9" />
+                    <DownUV DownUVLeft="950" DownUVTop="312" DownUVWidth="13" DownUVHeight="9" />
+                    <DisableUV DisableUVLeft="967" DisableUVTop="312" DisableUVWidth="13" DisableUVHeight="9" />
+                </ButtonNode>
+            </BaseWndProperty>
+            <Style ParentNode="1" CtrlType="262144" />
+            <BaseWndProperty WindowID="8" WindowText="" WindowLeft="266" WindowTop="360" WindowHeight="13" WindowWidth="9" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="main.dds">
+                    <NorUV NorUVLeft="933" NorUVTop="323" NorUVWidth="13" NorUVHeight="9" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="16777215" FontStyle="0" />
+                <ButtonNode BtnState="0">
+                    <FocusUV FocusUVLeft="933" FocusUVTop="323" FocusUVWidth="13" FocusUVHeight="9" />
+                    <DownUV DownUVLeft="950" DownUVTop="323" DownUVWidth="13" DownUVHeight="9" />
+                    <DisableUV DisableUVLeft="967" DisableUVTop="323" DisableUVWidth="13" DisableUVHeight="9" />
+                </ButtonNode>
+            </BaseWndProperty>
+        </Container_Node>
+    </BaseWndProperty>
+</Root_Node>

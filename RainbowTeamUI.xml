@@ -1,0 +1,325 @@
+<?xml version="1.0" ?>
+<Root_Node UI_File_Name="RainbowTeamUI.xml" Texture_Path="" Screen_X="1024" Screen_Y="768">
+    <Style Style="65536" />
+    <BaseWndProperty WindowID="1" WindowText="" WindowLeft="32" WindowTop="50" WindowHeight="190" WindowWidth="290" Visible="1" FixSize="0" Drag="0" Drop="0">
+        <BackGroundMap BGmap="Slot32.dds">
+            <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="10" NorUVHeight="10" />
+        </BackGroundMap>
+        <Container_Node Child_Cnt="34">
+            <Style ParentNode="1" CtrlType="268435456" />
+            <BaseWndProperty WindowID="2001" WindowText="" WindowLeft="36" WindowTop="58" WindowHeight="179" WindowWidth="43" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="uiobj18.dds">
+                    <NorUV NorUVLeft="690" NorUVTop="582" NorUVWidth="179" NorUVHeight="43" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="0" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+            <Style ParentNode="1" CtrlType="268435456" />
+            <BaseWndProperty WindowID="2002" WindowText="" WindowLeft="36" WindowTop="108" WindowHeight="179" WindowWidth="43" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="uiobj18.dds">
+                    <NorUV NorUVLeft="690" NorUVTop="582" NorUVWidth="179" NorUVHeight="43" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="0" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+            <Style ParentNode="1" CtrlType="268435456" />
+            <BaseWndProperty WindowID="2003" WindowText="" WindowLeft="36" WindowTop="158" WindowHeight="179" WindowWidth="43" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="uiobj18.dds">
+                    <NorUV NorUVLeft="690" NorUVTop="582" NorUVWidth="179" NorUVHeight="43" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="0" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+            <Style ParentNode="1" CtrlType="268435456" />
+            <BaseWndProperty WindowID="2004" WindowText="" WindowLeft="36" WindowTop="208" WindowHeight="179" WindowWidth="43" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="uiobj18.dds">
+                    <NorUV NorUVLeft="690" NorUVTop="582" NorUVWidth="179" NorUVHeight="43" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="0" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+            <Style ParentNode="1" CtrlType="268435456" />
+            <BaseWndProperty WindowID="2005" WindowText="" WindowLeft="36" WindowTop="258" WindowHeight="179" WindowWidth="43" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="uiobj18.dds">
+                    <NorUV NorUVLeft="690" NorUVTop="582" NorUVWidth="179" NorUVHeight="43" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="0" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+            <Style ParentNode="2001" CtrlType="33554432" />
+            <BaseWndProperty WindowID="2101" WindowText="Name" WindowLeft="77" WindowTop="62" WindowHeight="133" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="0" NorUVHeight="0" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="16777215" FontStyle="1" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style ParentNode="2002" CtrlType="33554432" />
+            <BaseWndProperty WindowID="2102" WindowText="Name" WindowLeft="77" WindowTop="112" WindowHeight="133" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="0" NorUVHeight="0" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="16777215" FontStyle="1" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style ParentNode="2003" CtrlType="33554432" />
+            <BaseWndProperty WindowID="2103" WindowText="Name" WindowLeft="77" WindowTop="162" WindowHeight="133" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="0" NorUVHeight="0" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="16777215" FontStyle="1" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style ParentNode="2004" CtrlType="33554432" />
+            <BaseWndProperty WindowID="2104" WindowText="Name" WindowLeft="77" WindowTop="212" WindowHeight="133" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="0" NorUVHeight="0" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="16777215" FontStyle="1" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style ParentNode="2005" CtrlType="33554432" />
+            <BaseWndProperty WindowID="2105" WindowText="Name" WindowLeft="77" WindowTop="262" WindowHeight="133" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="0" NorUVHeight="0" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="16777215" FontStyle="1" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style ParentNode="2001" CtrlType="33554432" />
+            <BaseWndProperty WindowID="2201" WindowText="status" WindowLeft="77" WindowTop="81" WindowHeight="78" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="0" NorUVHeight="0" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="16777215" FontStyle="1" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style ParentNode="2002" CtrlType="33554432" />
+            <BaseWndProperty WindowID="2202" WindowText="status" WindowLeft="77" WindowTop="131" WindowHeight="78" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="uiobj18.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="0" NorUVHeight="0" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="16777215" FontStyle="1" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style ParentNode="2003" CtrlType="33554432" />
+            <BaseWndProperty WindowID="2203" WindowText="status" WindowLeft="77" WindowTop="181" WindowHeight="78" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="0" NorUVHeight="0" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="16777215" FontStyle="1" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style ParentNode="2004" CtrlType="33554432" />
+            <BaseWndProperty WindowID="2204" WindowText="status" WindowLeft="77" WindowTop="231" WindowHeight="78" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="0" NorUVHeight="0" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="16777215" FontStyle="1" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style ParentNode="2005" CtrlType="33554432" />
+            <BaseWndProperty WindowID="2205" WindowText="status" WindowLeft="77" WindowTop="281" WindowHeight="78" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="0" NorUVHeight="0" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="16777215" FontStyle="1" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style ParentNode="2001" CtrlType="33554432" />
+            <BaseWndProperty WindowID="2301" WindowText="world" WindowLeft="159" WindowTop="81" WindowHeight="52" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="0" NorUVHeight="0" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="16777215" FontStyle="1" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style ParentNode="2002" CtrlType="33554432" />
+            <BaseWndProperty WindowID="2302" WindowText="world" WindowLeft="159" WindowTop="131" WindowHeight="52" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="0" NorUVHeight="0" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="16777215" FontStyle="1" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style ParentNode="2003" CtrlType="33554432" />
+            <BaseWndProperty WindowID="2303" WindowText="world" WindowLeft="159" WindowTop="181" WindowHeight="52" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="0" NorUVHeight="0" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="16777215" FontStyle="1" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style ParentNode="2004" CtrlType="33554432" />
+            <BaseWndProperty WindowID="2304" WindowText="world" WindowLeft="159" WindowTop="231" WindowHeight="52" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="0" NorUVHeight="0" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="16777215" FontStyle="1" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style ParentNode="2005" CtrlType="33554432" />
+            <BaseWndProperty WindowID="2305" WindowText="world" WindowLeft="159" WindowTop="281" WindowHeight="52" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="0" NorUVHeight="0" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="16777215" FontStyle="1" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style ParentNode="2001" CtrlType="268435456" />
+            <BaseWndProperty WindowID="4001" WindowText="" WindowLeft="41" WindowTop="63" WindowHeight="32" WindowWidth="32" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="10" NorUVHeight="10" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="0" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+            <Style ParentNode="2002" CtrlType="268435456" />
+            <BaseWndProperty WindowID="4002" WindowText="" WindowLeft="41" WindowTop="113" WindowHeight="32" WindowWidth="32" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="10" NorUVHeight="10" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="0" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+            <Style ParentNode="2003" CtrlType="268435456" />
+            <BaseWndProperty WindowID="4003" WindowText="" WindowLeft="41" WindowTop="163" WindowHeight="32" WindowWidth="32" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="10" NorUVHeight="10" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="0" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+            <Style ParentNode="2004" CtrlType="268435456" />
+            <BaseWndProperty WindowID="4004" WindowText="" WindowLeft="41" WindowTop="213" WindowHeight="32" WindowWidth="32" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="10" NorUVHeight="10" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="0" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+            <Style ParentNode="2005" CtrlType="268435456" />
+            <BaseWndProperty WindowID="4005" WindowText="" WindowLeft="41" WindowTop="263" WindowHeight="32" WindowWidth="32" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="10" NorUVHeight="10" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="0" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+            <Style ParentNode="2001" CtrlType="268435456" />
+            <BaseWndProperty WindowID="4011" WindowText="" WindowLeft="41" WindowTop="63" WindowHeight="32" WindowWidth="32" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="uiobj15.dds">
+                    <NorUV NorUVLeft="366" NorUVTop="314" NorUVWidth="36" NorUVHeight="36" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="0" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+            <Style ParentNode="2002" CtrlType="268435456" />
+            <BaseWndProperty WindowID="4012" WindowText="" WindowLeft="41" WindowTop="113" WindowHeight="32" WindowWidth="32" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="uiobj15.dds">
+                    <NorUV NorUVLeft="366" NorUVTop="314" NorUVWidth="36" NorUVHeight="36" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="0" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+            <Style ParentNode="2003" CtrlType="268435456" />
+            <BaseWndProperty WindowID="4013" WindowText="" WindowLeft="41" WindowTop="163" WindowHeight="32" WindowWidth="32" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="uiobj15.dds">
+                    <NorUV NorUVLeft="366" NorUVTop="314" NorUVWidth="36" NorUVHeight="36" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="0" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+            <Style ParentNode="2004" CtrlType="268435456" />
+            <BaseWndProperty WindowID="4014" WindowText="" WindowLeft="41" WindowTop="213" WindowHeight="32" WindowWidth="32" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="uiobj15.dds">
+                    <NorUV NorUVLeft="366" NorUVTop="314" NorUVWidth="36" NorUVHeight="36" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="0" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+            <Style ParentNode="2005" CtrlType="268435456" />
+            <BaseWndProperty WindowID="4015" WindowText="" WindowLeft="41" WindowTop="263" WindowHeight="32" WindowWidth="32" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="uiobj15.dds">
+                    <NorUV NorUVLeft="366" NorUVTop="314" NorUVWidth="36" NorUVHeight="36" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="0" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+            <Style ParentNode="1" CtrlType="268435456" />
+            <BaseWndProperty WindowID="8002" WindowText="" WindowLeft="39" WindowTop="48" WindowHeight="16" WindowWidth="14" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="main.dds">
+                    <NorUV NorUVLeft="791" NorUVTop="168" NorUVWidth="16" NorUVHeight="14" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="0" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+            <Style ParentNode="2001" CtrlType="268435456" />
+            <BaseWndProperty WindowID="8001" WindowText="" WindowLeft="39" WindowTop="61" WindowHeight="36" WindowWidth="36" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="uiobj18.dds">
+                    <NorUV NorUVLeft="691" NorUVTop="542" NorUVWidth="36" NorUVHeight="36" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="0" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+            <Style ParentNode="1" CtrlType="262144" />
+            <BaseWndProperty WindowID="3001" WindowText="擲骰" WindowLeft="35" WindowTop="320" WindowHeight="64" WindowWidth="18" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="main.dds">
+                    <NorUV NorUVLeft="734" NorUVTop="204" NorUVWidth="64" NorUVHeight="18" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="16777215" FontStyle="1" />
+                <ButtonNode BtnState="0">
+                    <FocusUV FocusUVLeft="734" FocusUVTop="226" FocusUVWidth="64" FocusUVHeight="18" />
+                    <DownUV DownUVLeft="734" DownUVTop="248" DownUVWidth="64" DownUVHeight="18" />
+                    <DisableUV DisableUVLeft="734" DisableUVTop="270" DisableUVWidth="64" DisableUVHeight="18" />
+                </ButtonNode>
+            </BaseWndProperty>
+            <Style ParentNode="1" CtrlType="262144" />
+            <BaseWndProperty WindowID="3002" WindowText="退出" WindowLeft="158" WindowTop="320" WindowHeight="64" WindowWidth="18" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="main.dds">
+                    <NorUV NorUVLeft="734" NorUVTop="204" NorUVWidth="64" NorUVHeight="18" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="16777215" FontStyle="1" />
+                <ButtonNode BtnState="0">
+                    <FocusUV FocusUVLeft="734" FocusUVTop="226" FocusUVWidth="64" FocusUVHeight="18" />
+                    <DownUV DownUVLeft="734" DownUVTop="248" DownUVWidth="64" DownUVHeight="18" />
+                    <DisableUV DisableUVLeft="734" DisableUVTop="270" DisableUVWidth="64" DisableUVHeight="18" />
+                </ButtonNode>
+            </BaseWndProperty>
+        </Container_Node>
+    </BaseWndProperty>
+</Root_Node>

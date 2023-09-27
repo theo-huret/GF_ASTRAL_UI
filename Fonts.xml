@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<Root_Node UI_File_Name="Fonts.xml" Texture_Path="" Screen_X="1024" Screen_Y="768">
+    <Style Style="65536" />
+    <BaseWndProperty WindowID="1" WindowText="Font_Setting" WindowLeft="0" WindowTop="0" WindowHeight="1" WindowWidth="1" Visible="1" FixSize="0" Drag="0" Drop="0">
+        <BackGroundMap BGmap="Slot32.dds">
+            <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="10" NorUVHeight="10" />
+        </BackGroundMap>
+        <Container_Node Child_Cnt="5">
+            <Style CtrlType="33554432" />
+            <BaseWndProperty WindowID="100" WindowText="Font0" WindowLeft="0" WindowTop="0" WindowHeight="100" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="0" NorUVHeight="0" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="9" FontColor="0" FontStyle="0" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style CtrlType="33554432" />
+            <BaseWndProperty WindowID="101" WindowText="Font1" WindowLeft="0" WindowTop="15" WindowHeight="100" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="0" NorUVHeight="0" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="0" FontStyle="0" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style CtrlType="33554432" />
+            <BaseWndProperty WindowID="102" WindowText="Font2" WindowLeft="0" WindowTop="33" WindowHeight="100" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="0" NorUVHeight="0" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="11" FontColor="0" FontStyle="0" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style CtrlType="33554432" />
+            <BaseWndProperty WindowID="103" WindowText="Font3" WindowLeft="0" WindowTop="49" WindowHeight="100" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="0" NorUVHeight="0" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="12" FontColor="0" FontStyle="0" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style CtrlType="33554432" />
+            <BaseWndProperty WindowID="104" WindowText="Font4" WindowLeft="0" WindowTop="65" WindowHeight="100" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="0" NorUVHeight="0" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="14" FontColor="0" FontStyle="0" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+        </Container_Node>
+    </BaseWndProperty>
+</Root_Node>

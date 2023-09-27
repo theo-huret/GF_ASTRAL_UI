@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<Root_Node UI_File_Name="TreasureInfo.xml">
+	<Style Style="65536" />
+	<BaseWndProperty WindowID="1" WindowHeight="150" WindowWidth="144">
+		<BackGroundMap BGmap="Slot32.dds" />
+		<Container_Node Child_Cnt="9">
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="5000" WindowTop="19" WindowHeight="150" WindowWidth="46">
+				<BackGroundMap BGmap="login01.dds">
+					<NorUV NorUVTop="45" NorUVWidth="150" NorUVHeight="46" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="5010" WindowTop="68" WindowHeight="150" WindowWidth="46">
+				<BackGroundMap BGmap="login01.dds">
+					<NorUV NorUVTop="45" NorUVWidth="150" NorUVHeight="46" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="5020" WindowTop="117" WindowHeight="150" WindowWidth="46">
+				<BackGroundMap BGmap="login01.dds">
+					<NorUV NorUVTop="45" NorUVWidth="150" NorUVHeight="46" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="5100" WindowLeft="7" WindowTop="26" WindowHeight="32" WindowWidth="32">
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="5110" WindowLeft="7" WindowTop="75" WindowHeight="32" WindowWidth="32">
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="5120" WindowLeft="7" WindowTop="124" WindowHeight="32" WindowWidth="32">
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="16777216" />
+			<BaseWndProperty WindowID="5200" WindowLeft="42" WindowTop="28" WindowHeight="103" WindowWidth="28">
+				<BackGroundMap BGmap="Slot32.dds" />
+				<BaseCtrlProperty FontColor="0" FontStyle="0" />
+				<EditNode ReadOnly="1" />
+				<MultiEditNode />
+			</BaseWndProperty>
+			<Style CtrlType="16777216" />
+			<BaseWndProperty WindowID="5210" WindowLeft="42" WindowTop="77" WindowHeight="103" WindowWidth="28">
+				<BackGroundMap BGmap="Slot32.dds" />
+				<BaseCtrlProperty FontColor="0" FontStyle="0" />
+				<EditNode ReadOnly="1" />
+				<MultiEditNode />
+			</BaseWndProperty>
+			<Style CtrlType="16777216" />
+			<BaseWndProperty WindowID="5220" WindowLeft="42" WindowTop="126" WindowHeight="103" WindowWidth="28">
+				<BackGroundMap BGmap="Slot32.dds" />
+				<BaseCtrlProperty FontColor="0" FontStyle="0" />
+				<EditNode ReadOnly="1" />
+				<MultiEditNode />
+			</BaseWndProperty>
+		</Container_Node>
+	</BaseWndProperty>
+</Root_Node>

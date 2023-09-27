@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<Root_Node UI_File_Name="ToolTips_Detail.xml" Texture_Path="" Screen_X="1024" Screen_Y="768">
+    <Style Style="65536" />
+    <BaseWndProperty WindowID="1" WindowText="ToolTips(大) - Top" WindowLeft="0" WindowTop="0" WindowHeight="42" WindowWidth="41" Visible="1" FixSize="0" Drag="0" Drop="0">
+        <BackGroundMap BGmap="Slot32.dds">
+            <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="184" NorUVHeight="8" />
+        </BackGroundMap>
+        <Container_Node Child_Cnt="10">
+            <Style ParentNode="1" CtrlType="268435456" />
+            <BaseWndProperty WindowID="500" WindowText="LT" WindowLeft="0" WindowTop="0" WindowHeight="13" WindowWidth="13" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Detail_ToolTips_BG.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="13" NorUVHeight="13" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+            <Style ParentNode="1" CtrlType="268435456" />
+            <BaseWndProperty WindowID="501" WindowText="RT" WindowLeft="28" WindowTop="0" WindowHeight="13" WindowWidth="13" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Detail_ToolTips_BG.dds">
+                    <NorUV NorUVLeft="30" NorUVTop="0" NorUVWidth="13" NorUVHeight="13" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+            <Style ParentNode="1" CtrlType="268435456" />
+            <BaseWndProperty WindowID="502" WindowText="LB" WindowLeft="0" WindowTop="27" WindowHeight="13" WindowWidth="13" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Detail_ToolTips_BG.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="29" NorUVWidth="13" NorUVHeight="13" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+            <Style ParentNode="1" CtrlType="268435456" />
+            <BaseWndProperty WindowID="503" WindowText="RB" WindowLeft="28" WindowTop="27" WindowHeight="13" WindowWidth="13" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Detail_ToolTips_BG.dds">
+                    <NorUV NorUVLeft="30" NorUVTop="29" NorUVWidth="13" NorUVHeight="13" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+            <Style ParentNode="1" CtrlType="268435456" />
+            <BaseWndProperty WindowID="504" WindowText="MIDDLE" WindowLeft="13" WindowTop="13" WindowHeight="15" WindowWidth="14" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Detail_ToolTips_BG.dds">
+                    <NorUV NorUVLeft="14" NorUVTop="14" NorUVWidth="15" NorUVHeight="14" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+            <Style ParentNode="1" CtrlType="268435456" />
+            <BaseWndProperty WindowID="505" WindowText="L" WindowLeft="0" WindowTop="13" WindowHeight="13" WindowWidth="14" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Detail_ToolTips_BG.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="14" NorUVWidth="13" NorUVHeight="14" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+            <Style ParentNode="1" CtrlType="268435456" />
+            <BaseWndProperty WindowID="506" WindowText="T" WindowLeft="13" WindowTop="0" WindowHeight="15" WindowWidth="13" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Detail_ToolTips_BG.dds">
+                    <NorUV NorUVLeft="14" NorUVTop="0" NorUVWidth="15" NorUVHeight="13" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+            <Style ParentNode="1" CtrlType="268435456" />
+            <BaseWndProperty WindowID="507" WindowText="R" WindowLeft="28" WindowTop="13" WindowHeight="13" WindowWidth="14" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Detail_ToolTips_BG.dds">
+                    <NorUV NorUVLeft="30" NorUVTop="14" NorUVWidth="13" NorUVHeight="14" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+            <Style ParentNode="1" CtrlType="268435456" />
+            <BaseWndProperty WindowID="508" WindowText="B" WindowLeft="13" WindowTop="27" WindowHeight="15" WindowWidth="13" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Detail_ToolTips_BG.dds">
+                    <NorUV NorUVLeft="14" NorUVTop="29" NorUVWidth="15" NorUVHeight="13" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+            <Style ParentNode="1" CtrlType="268435456" />
+            <BaseWndProperty WindowID="101" WindowText="Detail" WindowLeft="8" WindowTop="7" WindowHeight="24" WindowWidth="24" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="24" NorUVHeight="24" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="新細明體" FontSize="10" FontColor="16777215" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+        </Container_Node>
+    </BaseWndProperty>
+</Root_Node>

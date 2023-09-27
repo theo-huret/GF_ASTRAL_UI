@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<Root_Node UI_File_Name="HIDUI.xml">
+	<Style Style="65536" />
+	<BaseWndProperty WindowID="1" WindowHeight="256" WindowWidth="288">
+		<Container_Node Child_Cnt="14">
+			<Style CtrlType="33554432" />
+			<BaseWndProperty WindowID="1010" WindowLeft="128" WindowTop="264" WindowHeight="0" WindowWidth="0">
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<TextNode TextAlign="1" />
+			</BaseWndProperty>
+			<Style CtrlType="33554432" />
+			<BaseWndProperty WindowID="1011" WindowLeft="128" WindowTop="248" WindowHeight="0" WindowWidth="0">
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<TextNode TextAlign="1" />
+			</BaseWndProperty>
+			<Style CtrlType="33554432" />
+			<BaseWndProperty WindowID="1012" WindowLeft="128" WindowTop="232" WindowHeight="0" WindowWidth="0">
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<TextNode TextAlign="1" />
+			</BaseWndProperty>
+			<Style CtrlType="67108864" />
+			<BaseWndProperty WindowID="1000" WindowLeft="74" WindowTop="272" WindowHeight="110" WindowWidth="15">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="558" NorUVTop="511" NorUVWidth="110" NorUVHeight="15" />
+				</BackGroundMap>
+				<ProgressNode>
+					<OffSetUV UVCnt="1">
+						<SOffset-0 x="0" y="16" />
+					</OffSetUV>
+				</ProgressNode>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="1020" WindowLeft="96" WindowTop="208" WindowHeight="64" WindowWidth="64">
+				<BackGroundMap BGmap="Slot32.dds">
+					<NorUV NorUVWidth="32" NorUVHeight="32" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="1021" WindowLeft="96" WindowTop="192" WindowHeight="64" WindowWidth="64">
+				<BackGroundMap BGmap="Slot32.dds">
+					<NorUV NorUVWidth="32" NorUVHeight="32" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="1022" WindowLeft="96" WindowTop="176" WindowHeight="64" WindowWidth="64">
+				<BackGroundMap BGmap="Slot32.dds">
+					<NorUV NorUVWidth="32" NorUVHeight="32" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="1023" WindowLeft="96" WindowTop="160" WindowHeight="64" WindowWidth="64">
+				<BackGroundMap BGmap="Slot32.dds">
+					<NorUV NorUVWidth="32" NorUVHeight="32" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="1030" WindowTop="144" WindowHeight="256" WindowWidth="128">
+				<BackGroundMap BGmap="Slot32.dds">
+					<NorUV NorUVWidth="32" NorUVHeight="32" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="1031" WindowTop="128" WindowHeight="256" WindowWidth="128">
+				<BackGroundMap BGmap="Slot32.dds">
+					<NorUV NorUVWidth="32" NorUVHeight="32" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="1032" WindowTop="112" WindowHeight="256" WindowWidth="128">
+				<BackGroundMap BGmap="Slot32.dds">
+					<NorUV NorUVWidth="32" NorUVHeight="32" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="1033" WindowTop="96" WindowHeight="256" WindowWidth="128">
+				<BackGroundMap BGmap="Slot32.dds">
+					<NorUV NorUVWidth="32" NorUVHeight="32" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style ParentNode="1030" CtrlType="268435456" />
+			<BaseWndProperty WindowID="1040" WindowLeft="114" WindowTop="239" WindowHeight="32" WindowWidth="32">
+				<BackGroundMap BGmap="Slot32.dds">
+					<NorUV NorUVWidth="16" NorUVHeight="16" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="67108864" />
+			<BaseWndProperty WindowID="1001" WindowLeft="64" WindowTop="279" WindowHeight="128" WindowWidth="8">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="398" NorUVTop="304" NorUVWidth="128" NorUVHeight="8" />
+				</BackGroundMap>
+				<ProgressNode>
+					<OffSetUV UVCnt="1">
+						<SOffset-0 x="0" y="18" />
+					</OffSetUV>
+				</ProgressNode>
+			</BaseWndProperty>
+		</Container_Node>
+	</BaseWndProperty>
+</Root_Node>

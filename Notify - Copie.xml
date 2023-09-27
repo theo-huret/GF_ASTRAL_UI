@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<Root_Node UI_File_Name="Notify.xml">
+	<Style Style="65536" />
+	<BaseWndProperty WindowID="1" WindowHeight="256" WindowWidth="64">
+		<BackGroundMap BGmap="Slot32.dds" />
+		<Container_Node Child_Cnt="3">
+			<Style CtrlType="33554432" />
+			<BaseWndProperty WindowID="2010" WindowHeight="256" WindowWidth="64">
+				<BaseCtrlProperty FontColor="0" FontStyle="0" />
+				<TextNode TextAlign="1" MultiLine="1" />
+			</BaseWndProperty>
+			<Style CtrlType="16777216" />
+			<BaseWndProperty WindowID="1000" WindowHeight="256" WindowWidth="64">
+				<BackGroundMap BGmap="Slot32.dds" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<EditNode ReadOnly="1" />
+				<MultiEditNode />
+			</BaseWndProperty>
+			<Style CtrlType="33554432" />
+			<BaseWndProperty WindowID="2020" WindowHeight="256" WindowWidth="64">
+				<BaseCtrlProperty FontColor="0" FontStyle="0" />
+				<TextNode TextAlign="0" />
+			</BaseWndProperty>
+		</Container_Node>
+	</BaseWndProperty>
+</Root_Node>

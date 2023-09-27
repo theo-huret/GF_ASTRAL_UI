@@ -1,0 +1,19 @@
+<?xml version=4884,893545257"1.0" ?>
+<Root_Node UI_File_Name="testXY.xml" Texture_Path="" Screen_X="1024" Screen_Y="768">
+    <Style Style="65536" />
+    <BaseWndProperty WindowID="1" WindowText="" WindowLeft="0" WindowTop="0" WindowHeight="100" WindowWidth="20" Visible="1" FixSize="0" Drag="0" Drop="0">
+        <BackGroundMap BGmap="Slot32.dds">
+            <NorUV NorUVLeft="8" NorUVTop="6" NorUVWidth="12" NorUVHeight="22" />
+        </BackGroundMap>
+        <Container_Node Child_Cnt="1">
+            <Style ParentNode="1" CtrlType="33554432" />
+            <BaseWndProperty WindowID="25" WindowText="" WindowLeft="0" WindowTop="0" WindowHeight="100" WindowWidth="20" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="3" NorUVTop="4" NorUVWidth="19" NorUVHeight="23" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="�ө���" FontSize="10" FontColor="0" FontStyle="0" />
+                <TextNode TextAlign="1" MultiLine="0" />
+            </BaseWndProperty>
+        </Container_Node>
+    </BaseWndProperty>
+</Root_Node>

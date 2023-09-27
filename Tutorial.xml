@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<Root_Node UI_File_Name="Tutorial.xml">
+	<Style Style="65536" />
+	<BaseWndProperty WindowID="1" WindowHeight="32" WindowWidth="32">
+		<BackGroundMap BGmap="Slot32.dds" />
+		<Container_Node Child_Cnt="10">
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="500" WindowHeight="4" WindowWidth="4">
+				<BackGroundMap BGmap="Detail_ToolTips_BG.dds">
+					<NorUV NorUVLeft="1" NorUVTop="1" NorUVWidth="4" NorUVHeight="4" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="501" WindowLeft="28" WindowHeight="4" WindowWidth="4">
+				<BackGroundMap BGmap="Detail_ToolTips_BG.dds">
+					<NorUV NorUVLeft="38" NorUVTop="1" NorUVWidth="4" NorUVHeight="4" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="502" WindowTop="28" WindowHeight="4" WindowWidth="4">
+				<BackGroundMap BGmap="Detail_ToolTips_BG.dds">
+					<NorUV NorUVLeft="1" NorUVTop="37" NorUVWidth="4" NorUVHeight="4" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="503" WindowLeft="28" WindowTop="28" WindowHeight="4" WindowWidth="4">
+				<BackGroundMap BGmap="Detail_ToolTips_BG.dds">
+					<NorUV NorUVLeft="38" NorUVTop="37" NorUVWidth="4" NorUVHeight="4" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="504" WindowLeft="4" WindowTop="4" WindowHeight="24" WindowWidth="24">
+				<BackGroundMap BGmap="Detail_ToolTips_BG.dds">
+					<NorUV NorUVLeft="3" NorUVTop="3" NorUVWidth="1" NorUVHeight="1" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="505" WindowTop="4" WindowHeight="4" WindowWidth="24">
+				<BackGroundMap BGmap="Detail_ToolTips_BG.dds">
+					<NorUV NorUVLeft="1" NorUVTop="3" NorUVWidth="4" NorUVHeight="1" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="506" WindowLeft="4" WindowHeight="24" WindowWidth="4">
+				<BackGroundMap BGmap="Detail_ToolTips_BG.dds">
+					<NorUV NorUVLeft="3" NorUVTop="1" NorUVWidth="1" NorUVHeight="4" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="507" WindowLeft="28" WindowTop="4" WindowHeight="4" WindowWidth="24">
+				<BackGroundMap BGmap="Detail_ToolTips_BG.dds">
+					<NorUV NorUVLeft="38" NorUVTop="3" NorUVWidth="4" NorUVHeight="1" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="508" WindowLeft="4" WindowTop="28" WindowHeight="24" WindowWidth="4">
+				<BackGroundMap BGmap="Detail_ToolTips_BG.dds">
+					<NorUV NorUVLeft="3" NorUVTop="37" NorUVWidth="1" NorUVHeight="4" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="262144" />
+			<BaseWndProperty WindowID="100" WindowHeight="13" WindowWidth="12">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="618" NorUVTop="64" NorUVWidth="13" NorUVHeight="12" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="632" FocusUVTop="64" FocusUVWidth="13" FocusUVHeight="12" />
+					<DownUV DownUVLeft="646" DownUVTop="64" DownUVWidth="13" DownUVHeight="12" />
+				</ButtonNode>
+			</BaseWndProperty>
+		</Container_Node>
+	</BaseWndProperty>
+</Root_Node>

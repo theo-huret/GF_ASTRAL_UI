@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<Root_Node UI_File_Name="Timer.xml" Texture_Path="" Screen_X="1024" Screen_Y="768">
+    <Style Style="65536" />
+    <BaseWndProperty WindowID="1" WindowText="" WindowLeft="0" WindowTop="0" WindowHeight="200" WindowWidth="20" Visible="1" FixSize="0" Drag="0" Drop="0">
+        <BackGroundMap BGmap="Slot32.dds">
+            <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="10" NorUVHeight="10" />
+        </BackGroundMap>
+        <Container_Node Child_Cnt="2">
+            <Style ParentNode="1" CtrlType="268435456" />
+            <BaseWndProperty WindowID="10000" WindowText="" WindowLeft="0" WindowTop="0" WindowHeight="200" WindowWidth="20" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="uiobj11.dds">
+                    <NorUV NorUVLeft="68" NorUVTop="994" NorUVWidth="141" NorUVHeight="14" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="0" FontStyle="0" />
+                <PictureNode TextureClampMode="0">
+                    <ForegroundUV ForegroundUVLeft="0" ForegroundUVTop="0" ForegroundUVWidth="10" ForegroundUVHeight="10" />
+                </PictureNode>
+            </BaseWndProperty>
+            <Style ParentNode="10000" CtrlType="67108864" />
+            <BaseWndProperty WindowID="50000" WindowText="" WindowLeft="3" WindowTop="3" WindowHeight="194" WindowWidth="14" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="uiobj11.dds">
+                    <NorUV NorUVLeft="70" NorUVTop="996" NorUVWidth="137" NorUVHeight="10" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="細明體" FontSize="10" FontColor="0" FontStyle="0" />
+                <ProgressNode Max="100" Min="0" cur="0">
+                    <OffSetUV UVCnt="7">
+                        <SOffset-0 x="351" y="15" />
+                        <SOffset-1 x="0" y="0" />
+                        <SOffset-2 x="0" y="0" />
+                        <SOffset-3 x="0" y="0" />
+                        <SOffset-4 x="0" y="0" />
+                        <SOffset-5 x="0" y="0" />
+                        <SOffset-6 x="0" y="0" />
+                    </OffSetUV>
+                </ProgressNode>
+            </BaseWndProperty>
+        </Container_Node>
+    </BaseWndProperty>
+</Root_Node>

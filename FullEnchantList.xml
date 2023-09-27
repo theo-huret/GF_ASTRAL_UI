@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<Root_Node UI_File_Name="FullEnchantList.xml">
+	<Style Style="65536" />
+	<BaseWndProperty WindowID="1" WindowHeight="160" WindowWidth="16">
+		<BackGroundMap BGmap="main.dds">
+			<NorUV NorUVLeft="515" NorUVTop="454" NorUVWidth="160" NorUVHeight="16" />
+		</BackGroundMap>
+		<Container_Node Child_Cnt="6">
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="10000" WindowHeight="0" WindowWidth="0">
+				<BackGroundMap BGmap="Slot32.dds" />
+			</BaseWndProperty>
+			<Style CtrlType="262144" />
+			<BaseWndProperty WindowID="20001" WindowLeft="2" WindowTop="2" WindowHeight="13" WindowWidth="12">
+				<BackGroundMap BGmap="uiobj15.dds">
+					<NorUV NorUVLeft="766" NorUVTop="487" NorUVWidth="13" NorUVHeight="12" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="781" FocusUVTop="487" FocusUVWidth="13" FocusUVHeight="12" />
+					<DownUV DownUVLeft="796" DownUVTop="487" DownUVWidth="13" DownUVHeight="12" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="131072" />
+			<BaseWndProperty WindowID="20002" WindowLeft="16" WindowTop="2" WindowHeight="12" WindowWidth="12">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="715" NorUVTop="105" NorUVWidth="12" NorUVHeight="12" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="728" FocusUVTop="105" FocusUVWidth="12" FocusUVHeight="12" />
+					<DownUV DownUVLeft="780" DownUVTop="105" DownUVWidth="12" DownUVHeight="12" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="131072" />
+			<BaseWndProperty WindowID="20003" WindowLeft="29" WindowTop="2" WindowHeight="9" WindowWidth="12">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVTop="38" NorUVWidth="9" NorUVHeight="12" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<DownUV DownUVTop="51" DownUVWidth="9" DownUVHeight="12" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="1000" WindowTop="16" WindowHeight="16" WindowWidth="16" Visible="1">
+				<BackGroundMap BGmap="Slot32.dds">
+					<NorUV NorUVWidth="16" NorUVHeight="16" />
+				</BackGroundMap>
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="33554432" />
+			<BaseWndProperty WindowID="20000" WindowLeft="40" WindowTop="8" WindowHeight="0" WindowWidth="0">
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<TextNode TextAlign="0" MultiLine="0" />
+			</BaseWndProperty>
+		</Container_Node>
+	</BaseWndProperty>
+</Root_Node>

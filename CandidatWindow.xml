@@ -1,0 +1,171 @@
+<?xml version="1.0" ?>
+<Root_Node UI_File_Name="CandidatWindow.xml" Texture_Path="" Screen_X="1024" Screen_Y="768">
+    <Style Style="65536" />
+    <BaseWndProperty WindowID="1" WindowText="CandidatLeft" WindowLeft="0" WindowTop="0" WindowHeight="15" WindowWidth="136" Visible="1" FixSize="0" Drag="0" Drop="0">
+        <BackGroundMap BGmap="CandidateWndLeft.dds">
+            <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="11" NorUVHeight="136" />
+        </BackGroundMap>
+        <Container_Node Child_Cnt="20">
+            <Style CtrlType="536870912" />
+            <BaseWndProperty WindowID="101" WindowText="CandidatRight" WindowLeft="95" WindowTop="0" WindowHeight="4" WindowWidth="136" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="CandidateWndRight.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="4" NorUVHeight="136" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="CandidatRight" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <SlotNode />
+            </BaseWndProperty>
+            <Style CtrlType="536870912" />
+            <BaseWndProperty WindowID="102" WindowText="CandidatCenter" WindowLeft="15" WindowTop="0" WindowHeight="80" WindowWidth="136" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="CandidateWndCenter.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="16" NorUVHeight="136" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="CandidatCenter" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <SlotNode />
+            </BaseWndProperty>
+            <Style CtrlType="33554432" />
+            <BaseWndProperty WindowID="201" WindowText="" WindowLeft="18" WindowTop="0" WindowHeight="70" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="10" NorUVHeight="10" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="Candidate1" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style CtrlType="33554432" />
+            <BaseWndProperty WindowID="202" WindowText="" WindowLeft="18" WindowTop="15" WindowHeight="70" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="10" NorUVHeight="10" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="Candidate2" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style CtrlType="33554432" />
+            <BaseWndProperty WindowID="203" WindowText="" WindowLeft="18" WindowTop="30" WindowHeight="70" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="10" NorUVHeight="10" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="Candidate3" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style CtrlType="33554432" />
+            <BaseWndProperty WindowID="204" WindowText="" WindowLeft="18" WindowTop="45" WindowHeight="70" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="10" NorUVHeight="10" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="Candidate4" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style CtrlType="33554432" />
+            <BaseWndProperty WindowID="205" WindowText="" WindowLeft="18" WindowTop="60" WindowHeight="70" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="10" NorUVHeight="10" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="Candidate5" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style CtrlType="33554432" />
+            <BaseWndProperty WindowID="206" WindowText="" WindowLeft="18" WindowTop="75" WindowHeight="70" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="10" NorUVHeight="10" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="Candidate6" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style CtrlType="33554432" />
+            <BaseWndProperty WindowID="207" WindowText="" WindowLeft="18" WindowTop="90" WindowHeight="70" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="10" NorUVHeight="10" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="Candidate7" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style CtrlType="33554432" />
+            <BaseWndProperty WindowID="208" WindowText="" WindowLeft="18" WindowTop="105" WindowHeight="70" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="10" NorUVHeight="10" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="Candidate8" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style CtrlType="33554432" />
+            <BaseWndProperty WindowID="209" WindowText="" WindowLeft="18" WindowTop="120" WindowHeight="70" WindowWidth="16" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="Slot32.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="10" NorUVHeight="10" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="Candidate9" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <TextNode TextAlign="0" MultiLine="0" />
+            </BaseWndProperty>
+            <Style CtrlType="536870912" />
+            <BaseWndProperty WindowID="301" WindowText="Sel1" WindowLeft="0" WindowTop="0" WindowHeight="15" WindowWidth="15" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="CandidateWndLeft.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="11" NorUVHeight="15" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <SlotNode />
+            </BaseWndProperty>
+            <Style CtrlType="536870912" />
+            <BaseWndProperty WindowID="302" WindowText="Sel2" WindowLeft="0" WindowTop="15" WindowHeight="15" WindowWidth="15" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="CandidateWndLeft.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="15" NorUVWidth="11" NorUVHeight="15" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <SlotNode />
+            </BaseWndProperty>
+            <Style CtrlType="536870912" />
+            <BaseWndProperty WindowID="303" WindowText="Sel3" WindowLeft="0" WindowTop="30" WindowHeight="15" WindowWidth="15" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="CandidateWndLeft.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="30" NorUVWidth="11" NorUVHeight="15" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <SlotNode />
+            </BaseWndProperty>
+            <Style CtrlType="536870912" />
+            <BaseWndProperty WindowID="304" WindowText="Sel4" WindowLeft="0" WindowTop="45" WindowHeight="15" WindowWidth="15" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="CandidateWndLeft.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="45" NorUVWidth="11" NorUVHeight="15" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <SlotNode />
+            </BaseWndProperty>
+            <Style CtrlType="536870912" />
+            <BaseWndProperty WindowID="305" WindowText="Sel5" WindowLeft="0" WindowTop="60" WindowHeight="15" WindowWidth="15" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="CandidateWndLeft.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="60" NorUVWidth="11" NorUVHeight="15" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <SlotNode />
+            </BaseWndProperty>
+            <Style CtrlType="536870912" />
+            <BaseWndProperty WindowID="306" WindowText="Sel6" WindowLeft="0" WindowTop="75" WindowHeight="15" WindowWidth="15" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="CandidateWndLeft.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="75" NorUVWidth="11" NorUVHeight="15" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <SlotNode />
+            </BaseWndProperty>
+            <Style CtrlType="536870912" />
+            <BaseWndProperty WindowID="307" WindowText="Sel7" WindowLeft="0" WindowTop="90" WindowHeight="15" WindowWidth="15" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="CandidateWndLeft.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="90" NorUVWidth="11" NorUVHeight="15" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <SlotNode />
+            </BaseWndProperty>
+            <Style CtrlType="536870912" />
+            <BaseWndProperty WindowID="308" WindowText="Sel8" WindowLeft="0" WindowTop="105" WindowHeight="15" WindowWidth="15" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="CandidateWndLeft.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="105" NorUVWidth="11" NorUVHeight="15" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <SlotNode />
+            </BaseWndProperty>
+            <Style CtrlType="536870912" />
+            <BaseWndProperty WindowID="309" WindowText="Sel9" WindowLeft="0" WindowTop="120" WindowHeight="15" WindowWidth="15" Visible="1" FixSize="0" Drag="0" Drop="0">
+                <BackGroundMap BGmap="CandidateWndLeft.dds">
+                    <NorUV NorUVLeft="0" NorUVTop="120" NorUVWidth="11" NorUVHeight="15" />
+                </BackGroundMap>
+                <BaseCtrlProperty Tips="" FontFace="MS Sans Serif" FontSize="10" FontColor="0" FontStyle="0" />
+                <SlotNode />
+            </BaseWndProperty>
+        </Container_Node>
+    </BaseWndProperty>
+</Root_Node>

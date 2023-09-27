@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<Root_Node UI_File_Name="Fishing.xml">
+	<Style Style="65536" />
+	<BaseWndProperty WindowID="1" WindowHeight="498" WindowWidth="187">
+		<BackGroundMap BGmap="uiobj11.dds">
+			<NorUV NorUVLeft="1148" NorUVTop="412" NorUVWidth="498" NorUVHeight="187" />
+		</BackGroundMap>
+		<Container_Node Child_Cnt="10">
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="10001" WindowLeft="2" WindowTop="83" WindowHeight="494" WindowWidth="102">
+				<BackGroundMap BGmap="uiobj11.dds">
+					<NorUV NorUVLeft="1148" NorUVWidth="494" NorUVHeight="102" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="11000" WindowLeft="2" WindowTop="83" WindowHeight="494" WindowWidth="102">
+				<BackGroundMap BGmap="uiobj11.dds">
+					<NorUV NorUVLeft="1316" NorUVTop="103" NorUVWidth="494" NorUVHeight="102" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="11001" WindowLeft="2" WindowTop="83" WindowHeight="494" WindowWidth="102">
+				<BackGroundMap BGmap="uiobj11.dds">
+					<NorUV NorUVLeft="1316" NorUVTop="206" NorUVWidth="494" NorUVHeight="102" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="11002" WindowLeft="2" WindowTop="83" WindowHeight="494" WindowWidth="102">
+				<BackGroundMap BGmap="uiobj11.dds">
+					<NorUV NorUVLeft="1316" NorUVTop="309" NorUVWidth="494" NorUVHeight="102" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="11003" WindowTop="142" WindowHeight="34" WindowWidth="69">
+				<BackGroundMap BGmap="uiobj11.dds">
+					<NorUV NorUVLeft="736" NorUVTop="724" NorUVWidth="34" NorUVHeight="69" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="12000" WindowLeft="207" WindowTop="60" WindowHeight="84" WindowWidth="93">
+				<BackGroundMap BGmap="uiobj11.dds">
+					<NorUV NorUVLeft="666" NorUVTop="630" NorUVWidth="84" NorUVHeight="93" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="12001" WindowLeft="203" WindowTop="60" WindowHeight="92" WindowWidth="92">
+				<BackGroundMap BGmap="uiobj11.dds">
+					<NorUV NorUVLeft="666" NorUVTop="537" NorUVWidth="92" NorUVHeight="92" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="12002" WindowLeft="215" WindowTop="60" WindowHeight="69" WindowWidth="95">
+				<BackGroundMap BGmap="uiobj11.dds">
+					<NorUV NorUVLeft="666" NorUVTop="724" NorUVWidth="69" NorUVHeight="95" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="262144" />
+			<BaseWndProperty WindowID="20000" WindowLeft="469" WindowTop="16" WindowHeight="25" WindowWidth="24">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="793" NorUVTop="124" NorUVWidth="25" NorUVHeight="24" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="819" FocusUVTop="124" FocusUVWidth="25" FocusUVHeight="24" />
+					<DownUV DownUVLeft="845" DownUVTop="124" DownUVWidth="25" DownUVHeight="24" />
+				</ButtonNode>
+			</BaseWndProperty>
+		</Container_Node>
+	</BaseWndProperty>
+</Root_Node>

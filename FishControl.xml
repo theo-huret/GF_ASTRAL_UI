@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<Root_Node UI_File_Name="FishControl.xml">
+	<Style Style="65536" />
+	<BaseWndProperty WindowID="1" WindowHeight="157" WindowWidth="103">
+		<BackGroundMap BGmap="uiobj05.dds">
+			<NorUV NorUVLeft="692" NorUVTop="673" NorUVWidth="157" NorUVHeight="103" />
+		</BackGroundMap>
+		<Container_Node Child_Cnt="8">
+			<Style CtrlType="262144" />
+			<BaseWndProperty WindowID="20000" WindowLeft="136" WindowTop="5" WindowHeight="13" WindowWidth="12">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="618" NorUVTop="64" NorUVWidth="13" NorUVHeight="12" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="632" FocusUVTop="64" FocusUVWidth="13" FocusUVHeight="12" />
+					<DownUV DownUVLeft="646" DownUVTop="64" DownUVWidth="13" DownUVHeight="12" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="262144" />
+			<BaseWndProperty WindowID="20001" WindowLeft="30" WindowTop="79" WindowHeight="96" WindowWidth="18">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="18" NorUVTop="178" NorUVWidth="96" NorUVHeight="18" />
+				</BackGroundMap>
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="18" FocusUVTop="197" FocusUVWidth="96" FocusUVHeight="18" />
+					<DownUV DownUVLeft="18" DownUVTop="216" DownUVWidth="96" DownUVHeight="18" />
+					<DisableUV DisableUVLeft="18" DisableUVTop="235" DisableUVWidth="96" DisableUVHeight="18" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="262144" />
+			<BaseWndProperty WindowID="21000" WindowLeft="33" WindowTop="35" WindowHeight="32" WindowWidth="32">
+				<BackGroundMap BGmap="uiobj02.dds">
+					<NorUV NorUVLeft="1175" NorUVTop="844" NorUVWidth="32" NorUVHeight="32" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="1208" FocusUVTop="844" FocusUVWidth="32" FocusUVHeight="32" />
+					<DownUV DownUVLeft="1241" DownUVTop="844" DownUVWidth="32" DownUVHeight="32" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="262144" />
+			<BaseWndProperty WindowID="21001" WindowLeft="92" WindowTop="35" WindowHeight="32" WindowWidth="32">
+				<BackGroundMap BGmap="uiobj02.dds">
+					<NorUV NorUVLeft="1167" NorUVTop="877" NorUVWidth="32" NorUVHeight="32" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="1200" FocusUVTop="877" FocusUVWidth="32" FocusUVHeight="32" />
+					<DownUV DownUVLeft="1233" DownUVTop="877" DownUVWidth="32" DownUVHeight="32" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="10001" WindowLeft="7" WindowTop="29" WindowHeight="143" WindowWidth="44">
+				<BackGroundMap BGmap="ScreenMessageAlpha.dds">
+					<NorUV NorUVWidth="1" NorUVHeight="1" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="33554432" />
+			<BaseWndProperty WindowID="30000" WindowLeft="58" WindowTop="11" WindowHeight="0" WindowWidth="0">
+				<BaseCtrlProperty FontColor="65535" FontStyle="1" />
+				<TextNode TextAlign="1" />
+			</BaseWndProperty>
+			<Style CtrlType="33554432" />
+			<BaseWndProperty WindowID="31000" WindowLeft="79" WindowTop="51" WindowHeight="0" WindowWidth="0">
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<TextNode TextAlign="1" />
+			</BaseWndProperty>
+			<Style CtrlType="262144" />
+			<BaseWndProperty WindowID="29000" WindowLeft="115" WindowTop="3" WindowHeight="16" WindowWidth="16">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="999" NorUVTop="71" NorUVWidth="16" NorUVHeight="16" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="999" FocusUVTop="88" FocusUVWidth="16" FocusUVHeight="16" />
+					<DownUV DownUVLeft="999" DownUVTop="105" DownUVWidth="16" DownUVHeight="16" />
+					<DisableUV DisableUVLeft="999" DisableUVTop="122" DisableUVWidth="16" DisableUVHeight="16" />
+				</ButtonNode>
+			</BaseWndProperty>
+		</Container_Node>
+	</BaseWndProperty>
+</Root_Node>

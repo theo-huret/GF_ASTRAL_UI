@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<Root_Node UI_File_Name="TinyClockSetting.xml">
+	<Style Style="65536" />
+	<BaseWndProperty WindowID="1" WindowHeight="136" WindowWidth="124">
+		<BackGroundMap BGmap="main.dds">
+			<NorUV NorUVLeft="804" NorUVTop="411" NorUVWidth="136" NorUVHeight="124" />
+		</BackGroundMap>
+		<Container_Node Child_Cnt="14">
+			<Style CtrlType="33554432" />
+			<BaseWndProperty WindowID="2000" WindowText="2000" WindowLeft="47" WindowTop="11" WindowHeight="0" WindowWidth="0">
+				<BaseCtrlProperty FontColor="65535" FontStyle="1" />
+				<TextNode TextAlign="1" />
+			</BaseWndProperty>
+			<Style CtrlType="262144" />
+			<BaseWndProperty WindowID="10000" WindowLeft="115" WindowTop="5" WindowHeight="13" WindowWidth="12">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="618" NorUVTop="64" NorUVWidth="13" NorUVHeight="12" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="632" FocusUVTop="64" FocusUVWidth="13" FocusUVHeight="12" />
+					<DownUV DownUVLeft="646" DownUVTop="64" DownUVWidth="13" DownUVHeight="12" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="262144" />
+			<BaseWndProperty WindowID="30000" WindowLeft="94" WindowTop="3" WindowHeight="16" WindowWidth="16">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="999" NorUVTop="71" NorUVWidth="16" NorUVHeight="16" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="999" FocusUVTop="88" FocusUVWidth="16" FocusUVHeight="16" />
+					<DownUV DownUVLeft="999" DownUVTop="105" DownUVWidth="16" DownUVHeight="16" />
+					<DisableUV DisableUVLeft="999" DisableUVTop="122" DisableUVWidth="16" DisableUVHeight="16" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="262144" />
+			<BaseWndProperty WindowID="20000" WindowLeft="3" WindowTop="100" WindowHeight="64" WindowWidth="18">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="536" NorUVTop="79" NorUVWidth="64" NorUVHeight="18" />
+				</BackGroundMap>
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="536" FocusUVTop="98" FocusUVWidth="64" FocusUVHeight="18" />
+					<DownUV DownUVLeft="536" DownUVTop="117" DownUVWidth="64" DownUVHeight="18" />
+					<DisableUV DisableUVLeft="536" DisableUVTop="136" DisableUVWidth="64" DisableUVHeight="18" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="262144" />
+			<BaseWndProperty WindowID="20001" WindowLeft="69" WindowTop="100" WindowHeight="64" WindowWidth="18">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="536" NorUVTop="79" NorUVWidth="64" NorUVHeight="18" />
+				</BackGroundMap>
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="536" FocusUVTop="98" FocusUVWidth="64" FocusUVHeight="18" />
+					<DownUV DownUVLeft="536" DownUVTop="117" DownUVWidth="64" DownUVHeight="18" />
+					<DisableUV DisableUVLeft="536" DisableUVTop="136" DisableUVWidth="64" DisableUVHeight="18" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="8388608" />
+			<BaseWndProperty WindowID="2001" WindowLeft="46" WindowTop="30" WindowHeight="23" WindowWidth="17">
+				<BackGroundMap BGmap="Slot32.dds" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<EditNode ReadOnly="0" />
+				<SingleEditNode EditType="2" />
+			</BaseWndProperty>
+			<Style CtrlType="8388608" />
+			<BaseWndProperty WindowID="3001" WindowLeft="100" WindowTop="30" WindowHeight="23" WindowWidth="17">
+				<BackGroundMap BGmap="Slot32.dds" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<EditNode ReadOnly="0" />
+				<SingleEditNode EditType="2" />
+			</BaseWndProperty>
+			<Style CtrlType="8388608" />
+			<BaseWndProperty WindowID="2002" WindowLeft="46" WindowTop="54" WindowHeight="23" WindowWidth="17">
+				<BackGroundMap BGmap="Slot32.dds" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<EditNode ReadOnly="0" />
+				<SingleEditNode EditType="2" />
+			</BaseWndProperty>
+			<Style CtrlType="8388608" />
+			<BaseWndProperty WindowID="3002" WindowLeft="100" WindowTop="54" WindowHeight="23" WindowWidth="17">
+				<BackGroundMap BGmap="Slot32.dds" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<EditNode ReadOnly="0" />
+				<SingleEditNode EditType="2" />
+			</BaseWndProperty>
+			<Style CtrlType="8388608" />
+			<BaseWndProperty WindowID="2003" WindowLeft="46" WindowTop="78" WindowHeight="23" WindowWidth="17">
+				<BackGroundMap BGmap="Slot32.dds" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<EditNode ReadOnly="0" />
+				<SingleEditNode EditType="2" />
+			</BaseWndProperty>
+			<Style CtrlType="8388608" />
+			<BaseWndProperty WindowID="3003" WindowLeft="100" WindowTop="78" WindowHeight="23" WindowWidth="17">
+				<BackGroundMap BGmap="Slot32.dds" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<EditNode ReadOnly="0" />
+				<SingleEditNode EditType="2" />
+			</BaseWndProperty>
+			<Style CtrlType="131072" />
+			<BaseWndProperty WindowID="4001" WindowLeft="11" WindowTop="30" WindowHeight="15" WindowWidth="15">
+				<BackGroundMap BGmap="main.dds" />
+				<ButtonNode BtnState="0">
+					<DownUV DownUVLeft="1000" DownUVTop="300" DownUVWidth="15" DownUVHeight="15" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="131072" />
+			<BaseWndProperty WindowID="4002" WindowLeft="11" WindowTop="54" WindowHeight="15" WindowWidth="15">
+				<BackGroundMap BGmap="main.dds" />
+				<ButtonNode BtnState="0">
+					<DownUV DownUVLeft="1000" DownUVTop="300" DownUVWidth="15" DownUVHeight="15" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="131072" />
+			<BaseWndProperty WindowID="4003" WindowLeft="11" WindowTop="78" WindowHeight="15" WindowWidth="15">
+				<BackGroundMap BGmap="main.dds" />
+				<ButtonNode BtnState="0">
+					<DownUV DownUVLeft="1000" DownUVTop="300" DownUVWidth="15" DownUVHeight="15" />
+				</ButtonNode>
+			</BaseWndProperty>
+		</Container_Node>
+	</BaseWndProperty>
+</Root_Node>

@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<Root_Node UI_File_Name="Radar.xml">
+	<Style Style="65536" />
+	<BaseWndProperty WindowID="1" WindowHeight="210" WindowWidth="210">
+		<BackGroundMap BGmap="Slot32.dds" />
+		<Container_Node Child_Cnt="21">
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="1000" WindowLeft="43" WindowTop="39" WindowHeight="123" WindowWidth="123">
+				<BackGroundMap BGmap="Slot32.dds" />
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="1100" WindowHeight="210" WindowWidth="210" Visible="1">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="744" NorUVTop="536" NorUVWidth="210" NorUVHeight="210" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="262144" />
+			<BaseWndProperty WindowID="2000" WindowLeft="130" WindowTop="129" WindowHeight="45" WindowWidth="45">
+				<BackGroundMap BGmap="AH.dds">
+					<NorUV NorUVLeft="312" NorUVWidth="45" NorUVHeight="45" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="312" FocusUVTop="46" FocusUVWidth="45" FocusUVHeight="45" />
+					<DownUV DownUVLeft="312" DownUVTop="92" DownUVWidth="45" DownUVHeight="45" />
+					<DisableUV DisableUVLeft="312" DisableUVTop="138" DisableUVWidth="45" DisableUVHeight="45" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="262144" />
+			<BaseWndProperty WindowID="2001" WindowLeft="154" WindowTop="103" WindowHeight="38" WindowWidth="38">
+				<BackGroundMap BGmap="AH.dds">
+					<NorUV NorUVLeft="273" NorUVWidth="38" NorUVHeight="38" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="273" FocusUVTop="39" FocusUVWidth="38" FocusUVHeight="38" />
+					<DownUV DownUVLeft="273" DownUVTop="78" DownUVWidth="38" DownUVHeight="38" />
+					<DisableUV DisableUVLeft="273" DisableUVTop="117" DisableUVWidth="38" DisableUVHeight="38" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="262144" />
+			<BaseWndProperty WindowID="2002" WindowLeft="154" WindowTop="64" WindowHeight="38" WindowWidth="38">
+				<BackGroundMap BGmap="AH.dds">
+					<NorUV NorUVLeft="234" NorUVWidth="38" NorUVHeight="38" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="234" FocusUVTop="39" FocusUVWidth="38" FocusUVHeight="38" />
+					<DownUV DownUVLeft="234" DownUVTop="78" DownUVWidth="38" DownUVHeight="38" />
+					<DisableUV DisableUVLeft="234" DisableUVTop="117" DisableUVWidth="38" DisableUVHeight="38" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="131072" />
+			<BaseWndProperty WindowID="2003" WindowLeft="38" WindowTop="134" WindowHeight="38" WindowWidth="38">
+				<BackGroundMap BGmap="AH.dds">
+					<NorUV NorUVLeft="156" NorUVWidth="38" NorUVHeight="38" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="156" FocusUVTop="39" FocusUVWidth="38" FocusUVHeight="38" />
+					<DownUV DownUVLeft="156" DownUVTop="78" DownUVWidth="38" DownUVHeight="38" />
+					<DisableUV DisableUVLeft="156" DisableUVTop="117" DisableUVWidth="38" DisableUVHeight="38" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="262144" />
+			<BaseWndProperty WindowID="2004" WindowLeft="-1495" WindowTop="11" WindowHeight="38" WindowWidth="38">
+				<BackGroundMap BGmap="Slot32.dds" />
+			</BaseWndProperty>
+			<Style CtrlType="33554432" />
+			<BaseWndProperty WindowID="3010" WindowLeft="105" WindowTop="189" WindowHeight="0" WindowWidth="0">
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<TextNode TextAlign="1" />
+			</BaseWndProperty>
+			<Style CtrlType="33554432" />
+			<BaseWndProperty WindowID="3000" WindowLeft="105" WindowTop="11" WindowHeight="0" WindowWidth="0">
+				<BaseCtrlProperty FontColor="65535" FontStyle="1" />
+				<TextNode TextAlign="1" />
+			</BaseWndProperty>
+			<Style CtrlType="262144" />
+			<BaseWndProperty WindowID="5000" WindowLeft="143" WindowTop="27" WindowHeight="38" WindowWidth="38">
+				<BackGroundMap BGmap="AH.dds">
+					<NorUV NorUVLeft="195" NorUVWidth="38" NorUVHeight="38" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="195" FocusUVTop="39" FocusUVWidth="38" FocusUVHeight="38" />
+					<DownUV DownUVLeft="195" DownUVTop="78" DownUVWidth="38" DownUVHeight="38" />
+					<DisableUV DisableUVLeft="195" DisableUVTop="117" DisableUVWidth="38" DisableUVHeight="38" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="5002" WindowHeight="0" WindowWidth="0">
+				<BackGroundMap BGmap="Slot32.dds" />
+			</BaseWndProperty>
+			<Style CtrlType="262144" />
+			<BaseWndProperty WindowID="2005" WindowHeight="0" WindowWidth="0">
+				<BackGroundMap BGmap="uiobj09.dds">
+					<NorUV NorUVLeft="1877" NorUVTop="252" NorUVWidth="38" NorUVHeight="38" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="1877" FocusUVTop="291" FocusUVWidth="38" FocusUVHeight="38" />
+					<DownUV DownUVLeft="1877" DownUVTop="330" DownUVWidth="38" DownUVHeight="38" />
+					<DisableUV DisableUVLeft="1877" DisableUVTop="369" DisableUVWidth="38" DisableUVHeight="38" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="262144" />
+			<BaseWndProperty WindowID="4030" WindowLeft="31" WindowTop="24" WindowHeight="45" WindowWidth="45">
+				<BackGroundMap BGmap="AH.dds">
+					<NorUV NorUVTop="156" NorUVWidth="45" NorUVHeight="45" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVTop="202" FocusUVWidth="45" FocusUVHeight="45" />
+					<DownUV DownUVTop="248" DownUVWidth="45" DownUVHeight="45" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="5003" WindowHeight="0" WindowWidth="0">
+				<BackGroundMap BGmap="Slot32.dds" />
+			</BaseWndProperty>
+			<Style CtrlType="262144" />
+			<BaseWndProperty WindowID="4040" WindowLeft="-1585" WindowTop="11" WindowHeight="38" WindowWidth="38">
+				<BackGroundMap BGmap="AH.dds">
+					<NorUV NorUVLeft="46" NorUVTop="156" NorUVWidth="38" NorUVHeight="38" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="46" FocusUVTop="195" FocusUVWidth="38" FocusUVHeight="38" />
+					<DownUV DownUVLeft="46" DownUVTop="234" DownUVWidth="38" DownUVHeight="38" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="5004" WindowHeight="0" WindowWidth="0">
+				<BackGroundMap BGmap="Slot32.dds" />
+			</BaseWndProperty>
+			<Style CtrlType="262144" />
+			<BaseWndProperty WindowID="4050" WindowLeft="-1540" WindowTop="11" WindowHeight="38" WindowWidth="38">
+				<BackGroundMap BGmap="AH.dds">
+					<NorUV NorUVWidth="38" NorUVHeight="38" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVTop="39" FocusUVWidth="38" FocusUVHeight="38" />
+					<DownUV DownUVTop="78" DownUVWidth="38" DownUVHeight="38" />
+					<DisableUV DisableUVTop="117" DisableUVWidth="38" DisableUVHeight="38" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="262144" />
+			<BaseWndProperty WindowID="4060" WindowLeft="-1450" WindowTop="11" WindowHeight="38" WindowWidth="38">
+				<BackGroundMap BGmap="AH.dds">
+					<NorUV NorUVLeft="78" NorUVWidth="38" NorUVHeight="38" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="78" FocusUVTop="39" FocusUVWidth="38" FocusUVHeight="38" />
+					<DownUV DownUVLeft="78" DownUVTop="78" DownUVWidth="38" DownUVHeight="38" />
+					<DisableUV DisableUVLeft="78" DisableUVTop="134" DisableUVWidth="38" DisableUVHeight="38" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="262144" />
+			<BaseWndProperty WindowID="4070" WindowLeft="-1405" WindowTop="11" WindowHeight="38" WindowWidth="38">
+				<BackGroundMap BGmap="AH.dds">
+					<NorUV NorUVLeft="117" NorUVWidth="38" NorUVHeight="38" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="117" FocusUVTop="39" FocusUVWidth="38" FocusUVHeight="38" />
+					<DownUV DownUVLeft="117" DownUVTop="78" DownUVWidth="38" DownUVHeight="38" />
+					<DisableUV DisableUVLeft="117" DisableUVTop="117" DisableUVWidth="38" DisableUVHeight="38" />
+					</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="262144" Description="Icone Joueurs caches" />
+			<BaseWndProperty WindowID="4080" WindowLeft="100" WindowTop="3" WindowHeight="16" WindowWidth="16">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="529" NorUVTop="229" NorUVWidth="16" NorUVHeight="16" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="546" FocusUVTop="229" FocusUVWidth="16" FocusUVHeight="16" />
+					<DownUV DownUVLeft="563" DownUVTop="229" DownUVWidth="16" DownUVHeight="16" />
+					<DisableUV DisableUVLeft="580" DisableUVTop="229" DisableUVWidth="16" DisableUVHeight="16" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="262144" Description="icone joueurs affiches" />
+			<BaseWndProperty WindowID="4090" WindowLeft="100" WindowTop="3" WindowHeight="16" WindowWidth="16">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="529" NorUVTop="212" NorUVWidth="16" NorUVHeight="16" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="546" FocusUVTop="212" FocusUVWidth="16" FocusUVHeight="16" />
+					<DownUV DownUVLeft="563" DownUVTop="212" DownUVWidth="16" DownUVHeight="16" />
+					<DisableUV DisableUVLeft="580" DisableUVTop="212" DisableUVWidth="16" DisableUVHeight="16" />
+				</ButtonNode>
+			</BaseWndProperty>
+		</Container_Node>
+	</BaseWndProperty>
+</Root_Node>

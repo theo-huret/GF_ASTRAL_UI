@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Root_Node UI_File_Name="Raid.xml">
+	<Style Style="65536" />
+	<BaseWndProperty WindowID="1" WindowHeight="0" WindowWidth="0">
+		<BackGroundMap BGmap="Slot32.dds" />
+		<Container_Node Child_Cnt="2">
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="2" WindowHeight="0" WindowWidth="0">
+				<BackGroundMap BGmap="Slot32.dds" />
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="3" WindowHeight="16" WindowWidth="14">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="791" NorUVTop="168" NorUVWidth="16" NorUVHeight="14" />
+				</BackGroundMap>
+			</BaseWndProperty>
+		</Container_Node>
+	</BaseWndProperty>
+</Root_Node>

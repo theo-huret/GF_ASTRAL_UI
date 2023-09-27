@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<Root_Node UI_File_Name="CastingBar.xml">
+	<Style Style="65536" />
+	<BaseWndProperty WindowID="1" WindowTop="170" WindowHeight="297" WindowWidth="23">
+		<BackGroundMap BGmap="Slot32.dds" />
+		<Container_Node Child_Cnt="3">
+			<Style CtrlType="67108864" />
+			<BaseWndProperty WindowID="1000" WindowTop="8" WindowHeight="297" WindowWidth="11">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="0" NorUVTop="982" NorUVWidth="297" NorUVHeight="11" />
+				</BackGroundMap>
+				<ProgressNode>
+					<OffSetUV UVCnt="1">
+						<SOffset-0 x="0" y="11" />
+					</OffSetUV>
+				</ProgressNode>
+			</BaseWndProperty>
+			<Style CtrlType="33554432" />
+			<BaseWndProperty WindowID="2000" WindowLeft="148" WindowTop="29" WindowHeight="0" WindowWidth="0">
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<TextNode TextAlign="1" />
+			</BaseWndProperty>
+			<Style CtrlType="33554432" />
+			<BaseWndProperty WindowID="2001" WindowLeft="2200" WindowHeight="0" WindowWidth="0">
+				<BaseCtrlProperty FontColor="0" FontStyle="0" />
+				<TextNode TextAlign="1" />
+			</BaseWndProperty>
+		</Container_Node>
+	</BaseWndProperty>
+</Root_Node>
