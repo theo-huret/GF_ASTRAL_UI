@@ -123,7 +123,7 @@
 			</BaseWndProperty>
 			
 			<Style CtrlType="268435456" />
-			<BaseWndProperty WindowID="1100" WindowLeft="16" WindowTop="205" WindowHeight="515" WindowWidth="22">
+			<BaseWndProperty WindowID="1100" WindowLeft="5" WindowTop="205" WindowHeight="515" WindowWidth="22">
 				<BackGroundMap BGmap="main.dds">
 					<NorUV NorUVLeft="18" NorUVTop="155" NorUVWidth="389" NorUVHeight="22" />
 				</BackGroundMap>
@@ -141,7 +141,7 @@
 			</BaseWndProperty>
 
 			<Style ParentNode="1100" CtrlType="8388608" />
-			<BaseWndProperty WindowID="5010" WindowLeft="95" WindowTop="189" WindowHeight="460" WindowWidth="28">
+			<BaseWndProperty WindowID="5010" WindowLeft="100" WindowTop="209" WindowHeight="410" WindowWidth="28">
 				<BackGroundMap BGmap="Slot32.dds" />
 				<BaseCtrlProperty FontColor="16777215" FontStyle="0" />
 				<EditNode ReadOnly="0" />
