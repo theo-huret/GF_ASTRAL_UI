@@ -235,7 +235,7 @@
 				</ButtonNode>
 			</BaseWndProperty>
 			<Style CtrlType="131072" />
-			<BaseWndProperty WindowID="11000" WindowLeft="20" WindowTop="57" WindowHeight="12" WindowWidth="12">
+			<BaseWndProperty WindowID="11000" WindowLeft="72" WindowTop="343" WindowHeight="12" WindowWidth="12">
 				<BackGroundMap BGmap="main.dds" />
 				<ButtonNode BtnState="0">
 					<DownUV DownUVLeft="999" DownUVTop="355" DownUVWidth="12" DownUVHeight="12" />

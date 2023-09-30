@@ -160,25 +160,25 @@
 					</ButtonNode>
 			</BaseWndProperty>
 			<Style CtrlType="262144" Description="Icone Joueurs caches" />
-			<BaseWndProperty WindowID="4080" WindowLeft="100" WindowTop="3" WindowHeight="16" WindowWidth="16">
+			<BaseWndProperty WindowID="4080" WindowLeft="186" WindowTop="92" WindowHeight="16" WindowWidth="18">
 				<BackGroundMap BGmap="main.dds">
-					<NorUV NorUVLeft="529" NorUVTop="229" NorUVWidth="16" NorUVHeight="16" />
+					<NorUV NorUVLeft="365" NorUVTop="356" NorUVWidth="16" NorUVHeight="18" />
 				</BackGroundMap>
 				<ButtonNode BtnState="0">
-					<FocusUV FocusUVLeft="546" FocusUVTop="229" FocusUVWidth="16" FocusUVHeight="16" />
-					<DownUV DownUVLeft="563" DownUVTop="229" DownUVWidth="16" DownUVHeight="16" />
-					<DisableUV DisableUVLeft="580" DisableUVTop="229" DisableUVWidth="16" DisableUVHeight="16" />
+					<FocusUV FocusUVLeft="365" FocusUVTop="356" FocusUVWidth="16" FocusUVHeight="18" />
+					<DownUV DownUVLeft="365" DownUVTop="374" DownUVWidth="16" DownUVHeight="18" />
+					<DisableUV DisableUVLeft="365" DisableUVTop="392" DisableUVWidth="16" DisableUVHeight="18" />
 				</ButtonNode>
 			</BaseWndProperty>
 			<Style CtrlType="262144" Description="icone joueurs affiches" />
-			<BaseWndProperty WindowID="4090" WindowLeft="100" WindowTop="3" WindowHeight="16" WindowWidth="16">
+			<BaseWndProperty WindowID="4090" WindowLeft="186" WindowTop="92" WindowHeight="16" WindowWidth="18">
 				<BackGroundMap BGmap="main.dds">
-					<NorUV NorUVLeft="529" NorUVTop="212" NorUVWidth="16" NorUVHeight="16" />
+					<NorUV NorUVLeft="381" NorUVTop="356" NorUVWidth="16" NorUVHeight="18" />
 				</BackGroundMap>
 				<ButtonNode BtnState="0">
-					<FocusUV FocusUVLeft="546" FocusUVTop="212" FocusUVWidth="16" FocusUVHeight="16" />
-					<DownUV DownUVLeft="563" DownUVTop="212" DownUVWidth="16" DownUVHeight="16" />
-					<DisableUV DisableUVLeft="580" DisableUVTop="212" DisableUVWidth="16" DisableUVHeight="16" />
+					<FocusUV FocusUVLeft="381" FocusUVTop="356" FocusUVWidth="16" FocusUVHeight="18" />
+					<DownUV DownUVLeft="381" DownUVTop="374" DownUVWidth="16" DownUVHeight="18" />
+					<DisableUV DisableUVLeft="381" DisableUVTop="392" DisableUVWidth="16" DisableUVHeight="18" />
 				</ButtonNode>
 			</BaseWndProperty>
 		</Container_Node>

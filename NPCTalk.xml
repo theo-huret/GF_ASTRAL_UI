@@ -7,7 +7,7 @@
 		</BackGroundMap>
 		<Container_Node Child_Cnt="119">
 			<Style CtrlType="262144" />
-			<BaseWndProperty WindowID="3" WindowLeft="273" WindowTop="6" WindowHeight="13" WindowWidth="12">
+			<BaseWndProperty WindowID="3" WindowLeft="267" WindowTop="5" WindowHeight="13" WindowWidth="12">
 				<BackGroundMap BGmap="main.dds">
 					<NorUV NorUVLeft="618" NorUVTop="64" NorUVWidth="13" NorUVHeight="12" />
 				</BackGroundMap>
@@ -29,12 +29,12 @@
 				</ButtonNode>
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />
-			<BaseWndProperty WindowID="5" WindowLeft="12" WindowTop="12" WindowHeight="0" WindowWidth="0">
-				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
-				<TextNode TextAlign="0" />
+			<BaseWndProperty WindowID="5" WindowLeft="139" WindowTop="11" WindowHeight="0" WindowWidth="0">
+				<BaseCtrlProperty FontColor="65535" FontStyle="1" />
+				<TextNode TextAlign="1" />
 			</BaseWndProperty>
 			<Style CtrlType="2097152" />
-			<BaseWndProperty WindowID="102" WindowLeft="274" WindowTop="32" WindowHeight="5" WindowWidth="334" Visible="1">
+			<BaseWndProperty WindowID="102" WindowLeft="269" WindowTop="32" WindowHeight="9" WindowWidth="334" Visible="1">
 				<BackGroundMap BGmap="main.dds" />
 				<TrackNode>
 					<ThumbUV ThumbUVLeft="1" ThumbUVTop="10" ThumbUVWidth="1" ThumbUVHeight="1" />
@@ -302,132 +302,132 @@
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />
 			<BaseWndProperty WindowID="602" WindowHeight="203" WindowWidth="16">
-				<BaseCtrlProperty FontColor="255" FontStyle="1" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<TextNode TextAlign="0" />
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />
 			<BaseWndProperty WindowID="603" WindowHeight="203" WindowWidth="16">
-				<BaseCtrlProperty FontColor="255" FontStyle="1" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<TextNode TextAlign="0" />
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />
 			<BaseWndProperty WindowID="604" WindowHeight="203" WindowWidth="16">
-				<BaseCtrlProperty FontColor="65280" FontStyle="1" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<TextNode TextAlign="0" />
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />
 			<BaseWndProperty WindowID="605" WindowHeight="203" WindowWidth="16">
-				<BaseCtrlProperty FontColor="65280" FontStyle="1" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<TextNode TextAlign="0" />
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />
 			<BaseWndProperty WindowID="606" WindowHeight="203" WindowWidth="16">
-				<BaseCtrlProperty FontColor="16711680" FontStyle="1" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<TextNode TextAlign="0" />
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />
 			<BaseWndProperty WindowID="607" WindowHeight="203" WindowWidth="16">
-				<BaseCtrlProperty FontColor="16711680" FontStyle="1" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<TextNode TextAlign="0" />
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />
 			<BaseWndProperty WindowID="608" WindowHeight="203" WindowWidth="16">
-				<BaseCtrlProperty FontColor="65535" FontStyle="1" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<TextNode TextAlign="0" />
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />
 			<BaseWndProperty WindowID="609" WindowHeight="203" WindowWidth="16">
-				<BaseCtrlProperty FontColor="65535" FontStyle="1" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<TextNode TextAlign="0" />
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />
 			<BaseWndProperty WindowID="610" WindowHeight="203" WindowWidth="16">
-				<BaseCtrlProperty FontColor="16711935" FontStyle="1" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<TextNode TextAlign="0" />
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />
 			<BaseWndProperty WindowID="611" WindowHeight="203" WindowWidth="16">
-				<BaseCtrlProperty FontColor="16711935" FontStyle="1" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<TextNode TextAlign="0" />
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />
 			<BaseWndProperty WindowID="612" WindowHeight="203" WindowWidth="16">
-				<BaseCtrlProperty FontColor="16776960" FontStyle="1" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<TextNode TextAlign="0" />
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />
 			<BaseWndProperty WindowID="613" WindowHeight="203" WindowWidth="16">
-				<BaseCtrlProperty FontColor="16776960" FontStyle="1" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<TextNode TextAlign="0" />
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />
 			<BaseWndProperty WindowID="614" WindowHeight="203" WindowWidth="16">
-				<BaseCtrlProperty FontColor="255" FontStyle="1" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<TextNode TextAlign="0" />
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />
 			<BaseWndProperty WindowID="615" WindowHeight="203" WindowWidth="16">
-				<BaseCtrlProperty FontColor="255" FontStyle="1" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<TextNode TextAlign="0" />
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />
 			<BaseWndProperty WindowID="616" WindowHeight="203" WindowWidth="16">
-				<BaseCtrlProperty FontColor="65280" FontStyle="1" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<TextNode TextAlign="0" />
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />
 			<BaseWndProperty WindowID="617" WindowHeight="203" WindowWidth="16">
-				<BaseCtrlProperty FontColor="65280" FontStyle="1" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<TextNode TextAlign="0" />
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />
 			<BaseWndProperty WindowID="618" WindowHeight="203" WindowWidth="16">
-				<BaseCtrlProperty FontColor="16711680" FontStyle="1" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<TextNode TextAlign="0" />
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />
 			<BaseWndProperty WindowID="619" WindowHeight="203" WindowWidth="16">
-				<BaseCtrlProperty FontColor="16711680" FontStyle="1" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<TextNode TextAlign="0" />
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />
 			<BaseWndProperty WindowID="620" WindowHeight="203" WindowWidth="16">
-				<BaseCtrlProperty FontColor="65535" FontStyle="1" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<TextNode TextAlign="0" />
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />
 			<BaseWndProperty WindowID="621" WindowHeight="203" WindowWidth="16">
-				<BaseCtrlProperty FontColor="65535" FontStyle="1" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<TextNode TextAlign="0" />
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />
 			<BaseWndProperty WindowID="622" WindowHeight="203" WindowWidth="16">
-				<BaseCtrlProperty FontColor="16711935" FontStyle="1" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<TextNode TextAlign="0" />
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />
 			<BaseWndProperty WindowID="623" WindowHeight="203" WindowWidth="16">
-				<BaseCtrlProperty FontColor="16711935" FontStyle="1" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<TextNode TextAlign="0" />
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />
 			<BaseWndProperty WindowID="624" WindowHeight="203" WindowWidth="16">
-				<BaseCtrlProperty FontColor="16776960" FontStyle="1" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<TextNode TextAlign="0" />
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />
 			<BaseWndProperty WindowID="625" WindowHeight="203" WindowWidth="16">
-				<BaseCtrlProperty FontColor="16776960" FontStyle="1" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<TextNode TextAlign="0" />
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />
 			<BaseWndProperty WindowID="626" WindowHeight="203" WindowWidth="16">
-				<BaseCtrlProperty FontColor="26367" FontStyle="1" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<TextNode TextAlign="0" />
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />
 			<BaseWndProperty WindowID="627" WindowHeight="203" WindowWidth="16">
-				<BaseCtrlProperty FontColor="26367" FontStyle="1" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<TextNode TextAlign="0" />
 			</BaseWndProperty>
 			<Style CtrlType="33554432" />

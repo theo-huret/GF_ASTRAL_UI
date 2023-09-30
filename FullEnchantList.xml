@@ -40,9 +40,9 @@
 				</ButtonNode>
 			</BaseWndProperty>
 			<Style CtrlType="536870912" />
-			<BaseWndProperty WindowID="1000" WindowTop="16" WindowHeight="16" WindowWidth="16" Visible="1">
+			<BaseWndProperty WindowID="1000" WindowTop="16" WindowHeight="26" WindowWidth="26" Visible="1">
 				<BackGroundMap BGmap="Slot32.dds">
-					<NorUV NorUVWidth="16" NorUVHeight="16" />
+					<NorUV NorUVWidth="26" NorUVHeight="26" />
 				</BackGroundMap>
 				<SlotNode />
 			</BaseWndProperty>
