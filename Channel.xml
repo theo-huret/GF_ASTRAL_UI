@@ -125,11 +125,7 @@
 			<Style CtrlType="268435456" />
 			<BaseWndProperty WindowID="1100" WindowLeft="16" WindowTop="205" WindowHeight="515" WindowWidth="22">
 				<BackGroundMap BGmap="main.dds">
-<<<<<<< HEAD
 					<NorUV NorUVLeft="18" NorUVTop="155" NorUVWidth="389" NorUVHeight="22" />
-=======
-					<NorUV NorUVLeft="23" NorUVTop="165" NorUVWidth="389" NorUVHeight="22" />
->>>>>>> db46b55cafd15b92a143512816b748f8cec4e481
 				</BackGroundMap>
 			</BaseWndProperty>
 
