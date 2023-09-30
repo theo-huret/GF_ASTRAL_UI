@@ -123,83 +123,83 @@
 				</BackGroundMap>
 			</BaseWndProperty>
 			<Style CtrlType="536870912" />
-			<BaseWndProperty WindowID="8001" WindowLeft="602" WindowTop="843" WindowHeight="20" WindowWidth="20" Visible="1">
+			<BaseWndProperty WindowID="8001" WindowLeft="557" WindowTop="775" WindowHeight="32" WindowWidth="32" Visible="1">
 				<SlotNode />
 			</BaseWndProperty>
 			<Style CtrlType="536870912" />
-			<BaseWndProperty WindowID="8002" WindowLeft="624" WindowTop="843" WindowHeight="20" WindowWidth="20" Visible="1">
+			<BaseWndProperty WindowID="8002" WindowLeft="589" WindowTop="775" WindowHeight="32" WindowWidth="32" Visible="1">
 				<SlotNode />
 			</BaseWndProperty>
 			<Style CtrlType="536870912" />
-			<BaseWndProperty WindowID="8003" WindowLeft="646" WindowTop="843" WindowHeight="20" WindowWidth="20" Visible="1">
+			<BaseWndProperty WindowID="8003" WindowLeft="621" WindowTop="775" WindowHeight="32" WindowWidth="32" Visible="1">
 				<SlotNode />
 			</BaseWndProperty>
 			<Style CtrlType="536870912" />
-			<BaseWndProperty WindowID="8004" WindowLeft="668" WindowTop="843" WindowHeight="20" WindowWidth="20" Visible="1">
+			<BaseWndProperty WindowID="8004" WindowLeft="653" WindowTop="775" WindowHeight="32" WindowWidth="32" Visible="1">
 				<SlotNode />
 			</BaseWndProperty>
 			<Style CtrlType="536870912" />
-			<BaseWndProperty WindowID="8005" WindowLeft="690" WindowTop="843" WindowHeight="20" WindowWidth="20" Visible="1">
+			<BaseWndProperty WindowID="8005" WindowLeft="685" WindowTop="775" WindowHeight="32" WindowWidth="32" Visible="1">
 				<SlotNode />
 			</BaseWndProperty>
 			<Style CtrlType="536870912" />
-			<BaseWndProperty WindowID="8006" WindowLeft="712" WindowTop="843" WindowHeight="20" WindowWidth="20" Visible="1">
+			<BaseWndProperty WindowID="8006" WindowLeft="717" WindowTop="775" WindowHeight="32" WindowWidth="32" Visible="1">
 				<SlotNode />
 			</BaseWndProperty>
 			<Style CtrlType="536870912" />
-			<BaseWndProperty WindowID="8007" WindowLeft="734" WindowTop="843" WindowHeight="20" WindowWidth="20" Visible="1">
+			<BaseWndProperty WindowID="8007" WindowLeft="749" WindowTop="775" WindowHeight="32" WindowWidth="32" Visible="1">
 				<SlotNode />
 			</BaseWndProperty>
 			<Style CtrlType="536870912" />
-			<BaseWndProperty WindowID="8008" WindowLeft="756" WindowTop="843" WindowHeight="20" WindowWidth="20" Visible="1">
+			<BaseWndProperty WindowID="8008" WindowLeft="781" WindowTop="775" WindowHeight="32" WindowWidth="32" Visible="1">
 				<SlotNode />
 			</BaseWndProperty>
 			<Style CtrlType="536870912" />
-			<BaseWndProperty WindowID="8009" WindowLeft="778" WindowTop="843" WindowHeight="20" WindowWidth="20" Visible="1">
+			<BaseWndProperty WindowID="8009" WindowLeft="813" WindowTop="775" WindowHeight="32" WindowWidth="32" Visible="1">
 				<SlotNode />
 			</BaseWndProperty>
 			<Style CtrlType="536870912" />
-			<BaseWndProperty WindowID="8010" WindowLeft="800" WindowTop="843" WindowHeight="20" WindowWidth="20" Visible="1">
+			<BaseWndProperty WindowID="8010" WindowLeft="845" WindowTop="775" WindowHeight="32" WindowWidth="32" Visible="1">
 				<SlotNode />
 			</BaseWndProperty>
 			<Style CtrlType="536870912" />
-			<BaseWndProperty WindowID="8101" WindowLeft="602" WindowTop="827" WindowHeight="20" WindowWidth="20" Visible="1">
+			<BaseWndProperty WindowID="8101" WindowLeft="557" WindowTop="63" WindowHeight="32" WindowWidth="32" Visible="1">
 				<SlotNode />
 			</BaseWndProperty>
 			<Style CtrlType="536870912" />
-			<BaseWndProperty WindowID="8102" WindowLeft="624" WindowTop="827" WindowHeight="20" WindowWidth="20" Visible="1">
+			<BaseWndProperty WindowID="8102" WindowLeft="589" WindowTop="63" WindowHeight="32" WindowWidth="32" Visible="1">
 				<SlotNode />
 			</BaseWndProperty>
 			<Style CtrlType="536870912" />
-			<BaseWndProperty WindowID="8103" WindowLeft="646" WindowTop="827" WindowHeight="20" WindowWidth="20" Visible="1">
+			<BaseWndProperty WindowID="8103" WindowLeft="621" WindowTop="65" WindowHeight="32" WindowWidth="32" Visible="1">
 				<SlotNode />
 			</BaseWndProperty>
 			<Style CtrlType="536870912" />
-			<BaseWndProperty WindowID="8104" WindowLeft="668" WindowTop="827" WindowHeight="20" WindowWidth="20" Visible="1">
+			<BaseWndProperty WindowID="8104" WindowLeft="653" WindowTop="61" WindowHeight="32" WindowWidth="32" Visible="1">
 				<SlotNode />
 			</BaseWndProperty>
 			<Style CtrlType="536870912" />
-			<BaseWndProperty WindowID="8105" WindowLeft="690" WindowTop="827" WindowHeight="20" WindowWidth="20" Visible="1">
+			<BaseWndProperty WindowID="8105" WindowLeft="685" WindowTop="61" WindowHeight="32" WindowWidth="32" Visible="1">
 				<SlotNode />
 			</BaseWndProperty>
 			<Style CtrlType="536870912" />
-			<BaseWndProperty WindowID="8106" WindowLeft="712" WindowTop="827" WindowHeight="20" WindowWidth="20" Visible="1">
+			<BaseWndProperty WindowID="8106" WindowLeft="717" WindowTop="61" WindowHeight="32" WindowWidth="32" Visible="1">
 				<SlotNode />
 			</BaseWndProperty>
 			<Style CtrlType="536870912" />
-			<BaseWndProperty WindowID="8107" WindowLeft="734" WindowTop="827" WindowHeight="20" WindowWidth="20" Visible="1">
+			<BaseWndProperty WindowID="8107" WindowLeft="749" WindowTop="61" WindowHeight="32" WindowWidth="32" Visible="1">
 				<SlotNode />
 			</BaseWndProperty>
 			<Style CtrlType="536870912" />
-			<BaseWndProperty WindowID="8108" WindowLeft="756" WindowTop="827" WindowHeight="20" WindowWidth="20" Visible="1">
+			<BaseWndProperty WindowID="8108" WindowLeft="781" WindowTop="61" WindowHeight="32" WindowWidth="32" Visible="1">
 				<SlotNode />
 			</BaseWndProperty>
 			<Style CtrlType="536870912" />
-			<BaseWndProperty WindowID="8109" WindowLeft="778" WindowTop="827" WindowHeight="20" WindowWidth="20" Visible="1">
+			<BaseWndProperty WindowID="8109" WindowLeft="813" WindowTop="61" WindowHeight="32" WindowWidth="32" Visible="1">
 				<SlotNode />
 			</BaseWndProperty>
 			<Style CtrlType="536870912" />
-			<BaseWndProperty WindowID="8110" WindowLeft="800" WindowTop="827" WindowHeight="20" WindowWidth="20" Visible="1">
+			<BaseWndProperty WindowID="8110" WindowLeft="845" WindowTop="61" WindowHeight="32" WindowWidth="32" Visible="1">
 				<SlotNode />
 			</BaseWndProperty>
 			<Style ParentNode="9000" CtrlType="536870912" />

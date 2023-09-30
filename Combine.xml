@@ -5,7 +5,7 @@
 		<BackGroundMap BGmap="AH.dds">
 			<NorUV NorUVLeft="960" NorUVTop="190" NorUVWidth="234" NorUVHeight="212" />
 		</BackGroundMap>
-		<Container_Node Child_Cnt="24">
+		<Container_Node Child_Cnt="26">
 			<Style CtrlType="268435456" />
 			<BaseWndProperty WindowID="5020" WindowHeight="0" WindowWidth="0">
 				<BackGroundMap BGmap="Slot32.dds" />
@@ -54,6 +54,17 @@
 				<BaseCtrlProperty FontColor="65535" FontStyle="1" />
 				<TextNode TextAlign="0" />
 			</BaseWndProperty>
+			<Style CtrlType="33554432" />
+            <BaseWndProperty WindowID="3260" WindowLeft="79" WindowTop="184" WindowHeight="100" WindowWidth="13" >
+                <BaseCtrlProperty FontColor="65535" FontStyle="1" />
+                <TextNode TextAlign="1" MultiLine="0" />
+            </BaseWndProperty>
+
+            <Style CtrlType="33554432" />
+            <BaseWndProperty WindowID="3270" WindowLeft="184" WindowTop="184" WindowHeight="32" WindowWidth="13" >
+                <BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+                <TextNode TextAlign="1" MultiLine="0" />
+            </BaseWndProperty>
 			<Style CtrlType="16777216" />
 			<BaseWndProperty WindowID="3510" WindowLeft="118" WindowTop="117" WindowHeight="104" WindowWidth="26">
 				<BackGroundMap BGmap="Slot32.dds" />
