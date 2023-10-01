@@ -59,7 +59,7 @@
 				<TextNode TextAlign="1" />
 			</BaseWndProperty>
 			<Style CtrlType="67108864" />
-			<BaseWndProperty WindowID="5120" WindowLeft="719" WindowTop="853" WindowHeight="196" WindowWidth="7">
+			<BaseWndProperty WindowID="5120" WindowLeft="1142" WindowTop="894" WindowHeight="196" WindowWidth="7">
 				<BackGroundMap BGmap="main.dds">
 					<NorUV NorUVLeft="11" NorUVTop="34" NorUVWidth="196" NorUVHeight="7" />
 				</BackGroundMap>
