@@ -5,7 +5,7 @@
 		<BackGroundMap BGmap="uiobj11.dds">
 			<NorUV NorUVLeft="1238" NorUVTop="600" NorUVWidth="378" NorUVHeight="315" />
 		</BackGroundMap>
-		<Container_Node Child_Cnt="21">
+		<Container_Node Child_Cnt="27">
 			<Style CtrlType="268435456" />
 			<BaseWndProperty WindowID="11000" WindowLeft="7" WindowTop="29" WindowHeight="209" WindowWidth="256">
 				<BackGroundMap BGmap="Slot32.dds" />
@@ -141,6 +141,58 @@
 				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<EditNode ReadOnly="1" />
 				<MultiEditNode />
+			</BaseWndProperty>
+			<Style CtrlType="33554432" />
+			<BaseWndProperty WindowID="50000" WindowLeft="112" WindowTop="295" WindowHeight="0" WindowWidth="0">
+				<BaseCtrlProperty FontColor="65535" FontStyle="1" />
+				<TextNode TextAlign="1" MultiLine="0" />
+			</BaseWndProperty>
+			<Style CtrlType="262144" />
+			<BaseWndProperty WindowID="50001" WindowLeft="71" WindowTop="306" WindowHeight="14" WindowWidth="13">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="730" NorUVTop="91" NorUVWidth="14" NorUVHeight="13" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="745" FocusUVTop="91" FocusUVWidth="14" FocusUVHeight="13" />
+					<DownUV DownUVLeft="760" DownUVTop="91" DownUVWidth="14" DownUVHeight="13" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="262144" />
+			<BaseWndProperty WindowID="50002" WindowLeft="87" WindowTop="306" WindowHeight="9" WindowWidth="13">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="670" NorUVTop="91" NorUVWidth="9" NorUVHeight="13" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="680" FocusUVTop="91" FocusUVWidth="9" FocusUVHeight="13" />
+					<DownUV DownUVLeft="690" DownUVTop="91" DownUVWidth="9" DownUVHeight="13" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="8388608" />
+			<BaseWndProperty WindowID="50003" WindowLeft="101" WindowTop="306" WindowHeight="30" WindowWidth="15">
+				<BackGroundMap BGmap="Slot32.dds" />
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<EditNode ReadOnly="0" />
+				<SingleEditNode EditType="0" />
+			</BaseWndProperty>
+			<Style CtrlType="262144" />
+			<BaseWndProperty WindowID="50004" WindowLeft="127" WindowTop="306" WindowHeight="9" WindowWidth="13">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="700" NorUVTop="91" NorUVWidth="9" NorUVHeight="13" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="710" FocusUVTop="91" FocusUVWidth="9" FocusUVHeight="13" />
+					<DownUV DownUVLeft="720" DownUVTop="91" DownUVWidth="9" DownUVHeight="13" />
+				</ButtonNode>
+			</BaseWndProperty>
+			<Style CtrlType="262144" />
+			<BaseWndProperty WindowID="50005" WindowLeft="138" WindowTop="306" WindowHeight="14" WindowWidth="13">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="670" NorUVTop="105" NorUVWidth="14" NorUVHeight="13" />
+				</BackGroundMap>
+				<ButtonNode BtnState="0">
+					<FocusUV FocusUVLeft="685" FocusUVTop="105" FocusUVWidth="14" FocusUVHeight="13" />
+					<DownUV DownUVLeft="700" DownUVTop="105" DownUVWidth="14" DownUVHeight="13" />
+				</ButtonNode>
 			</BaseWndProperty>
 		</Container_Node>
 	</BaseWndProperty>
