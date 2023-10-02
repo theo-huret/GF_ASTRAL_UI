@@ -1,9 +1,9 @@
 <?xml version="1.0" ?>
-<Root_Node UI_File_Name="Equipment.xml">
+<Root_Node UI_File_Name="Equipment.xml" Description="Liste équipement">
 	<Style Style="65536" />
-	<BaseWndProperty WindowID="1" WindowHeight="263" WindowWidth="276">
-		<BackGroundMap BGmap="uiobj01.dds">
-			<NorUV NorUVLeft="1122" NorUVTop="297" NorUVWidth="263" NorUVHeight="276" />
+	<BaseWndProperty WindowID="1" WindowHeight="424" WindowWidth="479" Description="Font de la page équipement">
+		<BackGroundMap BGmap="AH.dds">
+			<NorUV NorUVLeft="358" NorUVWidth="424" NorUVHeight="479" />
 		</BackGroundMap>
 		<Container_Node Child_Cnt="74">
 			<Style CtrlType="536870912" />
@@ -11,92 +11,92 @@
 				<BackGroundMap BGmap="Slot32.dds" />
 				<SlotNode />
 			</BaseWndProperty>
-			<Style ParentNode="3000" CtrlType="536870912" />
-			<BaseWndProperty WindowID="3001" WindowLeft="169" WindowTop="71" WindowHeight="32" WindowWidth="32" Visible="1" Drag="4" Drop="8">
+			<Style ParentNode="3000" CtrlType="536870912" Description="Tête"/>
+			<BaseWndProperty WindowID="3001" WindowLeft="275" WindowTop="120" WindowHeight="32" WindowWidth="32" Visible="1" Drag="4" Drop="8">
 				<BackGroundMap BGmap="Slot32.dds">
 					<NorUV NorUVWidth="32" NorUVHeight="32" />
 				</BackGroundMap>
 				<SlotNode />
 			</BaseWndProperty>
-			<Style ParentNode="3000" CtrlType="536870912" />
-			<BaseWndProperty WindowID="3011" WindowLeft="125" WindowTop="208" WindowHeight="32" WindowWidth="32" Visible="1" Drag="4" Drop="8">
+			<Style ParentNode="3000" CtrlType="536870912" Description="Anneau gauche"/>
+			<BaseWndProperty WindowID="3011" WindowLeft="225" WindowTop="353" WindowHeight="32" WindowWidth="32" Visible="1" Drag="4" Drop="8">
 				<BackGroundMap BGmap="Slot32.dds">
 					<NorUV NorUVWidth="32" NorUVHeight="32" />
 				</BackGroundMap>
 				<SlotNode />
 			</BaseWndProperty>
-			<Style ParentNode="3000" CtrlType="536870912" />
-			<BaseWndProperty WindowID="3012" WindowLeft="213" WindowTop="208" WindowHeight="32" WindowWidth="32" Visible="1" Drag="4" Drop="8">
+			<Style ParentNode="3000" CtrlType="536870912" Description="Anneau droit"/>
+			<BaseWndProperty WindowID="3012" WindowLeft="325" WindowTop="353" WindowHeight="32" WindowWidth="32" Visible="1" Drag="4" Drop="8">
 				<BackGroundMap BGmap="Slot32.dds">
 					<NorUV NorUVWidth="32" NorUVHeight="32" />
 				</BackGroundMap>
 				<SlotNode />
 			</BaseWndProperty>
-			<Style ParentNode="3000" CtrlType="536870912" />
-			<BaseWndProperty WindowID="3004" WindowLeft="125" WindowTop="91" WindowHeight="32" WindowWidth="32" Visible="1" Drag="4" Drop="8">
+			<Style ParentNode="3000" CtrlType="536870912" Description="Gant"/>
+			<BaseWndProperty WindowID="3004" WindowLeft="207" WindowTop="181" WindowHeight="32" WindowWidth="32" Visible="1" Drag="4" Drop="8">
 				<BackGroundMap BGmap="Slot32.dds">
 					<NorUV NorUVWidth="32" NorUVHeight="32" />
 				</BackGroundMap>
 				<SlotNode />
 			</BaseWndProperty>
-			<Style ParentNode="3000" CtrlType="536870912" />
-			<BaseWndProperty WindowID="3006" WindowLeft="213" WindowTop="91" WindowHeight="32" WindowWidth="32" Visible="1" Drag="4" Drop="8">
+			<Style ParentNode="3000" CtrlType="536870912" Description="Cape"/>
+			<BaseWndProperty WindowID="3006" WindowLeft="343" WindowTop="181" WindowHeight="32" WindowWidth="32" Visible="1" Drag="4" Drop="8">
 				<BackGroundMap BGmap="Slot32.dds">
 					<NorUV NorUVWidth="32" NorUVHeight="32" />
 				</BackGroundMap>
 				<SlotNode />
 			</BaseWndProperty>
-			<Style ParentNode="3000" CtrlType="536870912" />
-			<BaseWndProperty WindowID="3002" WindowLeft="169" WindowTop="110" WindowHeight="32" WindowWidth="32" Visible="1" Drag="4" Drop="8">
+			<Style ParentNode="3000" CtrlType="536870912" Description="Torse"/>
+			<BaseWndProperty WindowID="3002" WindowLeft="275" WindowTop="193" WindowHeight="32" WindowWidth="32" Visible="1" Drag="4" Drop="8">
 				<BackGroundMap BGmap="Slot32.dds">
 					<NorUV NorUVWidth="32" NorUVHeight="32" />
 				</BackGroundMap>
 				<SlotNode />
 			</BaseWndProperty>
-			<Style ParentNode="3000" CtrlType="536870912" />
-			<BaseWndProperty WindowID="3007" WindowLeft="125" WindowTop="130" WindowHeight="32" WindowWidth="32" Visible="1" Drag="4" Drop="8">
+			<Style ParentNode="3000" CtrlType="536870912" Description="Arme gauche"/>
+			<BaseWndProperty WindowID="3007" WindowLeft="207" WindowTop="240" WindowHeight="32" WindowWidth="32" Visible="1" Drag="4" Drop="8">
 				<BackGroundMap BGmap="Slot32.dds">
 					<NorUV NorUVWidth="32" NorUVHeight="32" />
 				</BackGroundMap>
 				<SlotNode />
 			</BaseWndProperty>
-			<Style ParentNode="3000" CtrlType="536870912" />
-			<BaseWndProperty WindowID="3003" WindowLeft="169" WindowTop="149" WindowHeight="32" WindowWidth="32" Visible="1" Drag="4" Drop="8">
+			<Style ParentNode="3000" CtrlType="536870912" Description="Jambières"/>
+			<BaseWndProperty WindowID="3003" WindowLeft="275" WindowTop="243" WindowHeight="32" WindowWidth="32" Visible="1" Drag="4" Drop="8">
 				<BackGroundMap BGmap="Slot32.dds">
 					<NorUV NorUVWidth="32" NorUVHeight="32" />
 				</BackGroundMap>
 				<SlotNode />
 			</BaseWndProperty>
-			<Style ParentNode="3000" CtrlType="536870912" />
-			<BaseWndProperty WindowID="3008" WindowLeft="213" WindowTop="130" WindowHeight="32" WindowWidth="32" Visible="1" Drag="4" Drop="8">
+			<Style ParentNode="3000" CtrlType="536870912" Description="Arme droite"/>
+			<BaseWndProperty WindowID="3008" WindowLeft="343" WindowTop="240" WindowHeight="32" WindowWidth="32" Visible="1" Drag="4" Drop="8">
 				<BackGroundMap BGmap="Slot32.dds">
 					<NorUV NorUVWidth="32" NorUVHeight="32" />
 				</BackGroundMap>
 				<SlotNode />
 			</BaseWndProperty>
-			<Style ParentNode="3000" CtrlType="536870912" />
-			<BaseWndProperty WindowID="3010" WindowLeft="125" WindowTop="169" WindowHeight="32" WindowWidth="32" Visible="1" Drag="4" Drop="8">
+			<Style ParentNode="3000" CtrlType="536870912" Description="Arc"/>
+			<BaseWndProperty WindowID="3010" WindowLeft="207" WindowTop="287" WindowHeight="32" WindowWidth="32" Visible="1" Drag="4" Drop="8">
 				<BackGroundMap BGmap="Slot32.dds">
 					<NorUV NorUVWidth="32" NorUVHeight="32" />
 				</BackGroundMap>
 				<SlotNode />
 			</BaseWndProperty>
-			<Style ParentNode="3000" CtrlType="536870912" />
-			<BaseWndProperty WindowID="3013" WindowLeft="213" WindowTop="169" WindowHeight="32" WindowWidth="32" Visible="1" Drag="4" Drop="8">
+			<Style ParentNode="3000" CtrlType="536870912" Description="Munition"/>
+			<BaseWndProperty WindowID="3013" WindowLeft="343" WindowTop="287" WindowHeight="32" WindowWidth="32" Visible="1" Drag="4" Drop="8">
 				<BackGroundMap BGmap="Slot32.dds">
 					<NorUV NorUVWidth="32" NorUVHeight="32" />
 				</BackGroundMap>
 				<SlotNode />
 			</BaseWndProperty>
-			<Style ParentNode="3000" CtrlType="536870912" />
-			<BaseWndProperty WindowID="3005" WindowLeft="169" WindowTop="188" WindowHeight="32" WindowWidth="32" Visible="1" Drag="4" Drop="8">
+			<Style ParentNode="3000" CtrlType="536870912" Description="Bottes"/>
+			<BaseWndProperty WindowID="3005" WindowLeft="275" WindowTop="304" WindowHeight="32" WindowWidth="32" Visible="1" Drag="4" Drop="8">
 				<BackGroundMap BGmap="Slot32.dds">
 					<NorUV NorUVWidth="32" NorUVHeight="32" />
 				</BackGroundMap>
 				<SlotNode />
 			</BaseWndProperty>
-			<Style ParentNode="3000" CtrlType="262144" />
-			<BaseWndProperty WindowID="3014" WindowLeft="125" WindowTop="52" WindowHeight="32" WindowWidth="32">
+			<Style ParentNode="3000" CtrlType="262144" Description="Boutton pex stuff"/>
+			<BaseWndProperty WindowID="3014" WindowLeft="207" WindowTop="110" WindowHeight="32" WindowWidth="32">
 				<BackGroundMap BGmap="uiobj02.dds">
 					<NorUV NorUVLeft="1043" NorUVTop="844" NorUVWidth="32" NorUVHeight="32" />
 				</BackGroundMap>
@@ -106,8 +106,8 @@
 					<DisableUV DisableUVLeft="1142" DisableUVTop="844" DisableUVWidth="32" DisableUVHeight="32" />
 				</ButtonNode>
 			</BaseWndProperty>
-			<Style ParentNode="3000" CtrlType="262144" />
-			<BaseWndProperty WindowID="3015" WindowLeft="213" WindowTop="52" WindowHeight="32" WindowWidth="32">
+			<Style ParentNode="3000" CtrlType="262144" Description="Boutton pex monture"/>
+			<BaseWndProperty WindowID="3015" WindowLeft="343" WindowTop="110" WindowHeight="32" WindowWidth="32">
 				<BackGroundMap BGmap="uiobj02.dds">
 					<NorUV NorUVLeft="1035" NorUVTop="877" NorUVWidth="32" NorUVHeight="32" />
 				</BackGroundMap>
@@ -117,8 +117,8 @@
 					<DisableUV DisableUVLeft="1134" DisableUVTop="877" DisableUVWidth="32" DisableUVHeight="32" />
 				</ButtonNode>
 			</BaseWndProperty>
-			<Style CtrlType="33554432" />
-			<BaseWndProperty WindowID="4001" WindowLeft="162" WindowTop="12" WindowHeight="0" WindowWidth="0">
+			<Style CtrlType="33554432" Description="Texte Personnage"/>
+			<BaseWndProperty WindowID="4001" WindowLeft="49" WindowTop="15" WindowHeight="0" WindowWidth="0">
 				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
 				<TextNode TextAlign="1" />
 			</BaseWndProperty>
