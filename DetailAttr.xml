@@ -73,7 +73,7 @@
 
 
 			<Style CtrlType="131072" /> 
-			<BaseWndProperty WindowID="3002" WindowLeft="106" WindowTop="28" WindowHeight="56" WindowWidth="18">
+			<BaseWndProperty WindowID="3002" WindowLeft="83" WindowTop="28" WindowHeight="56" WindowWidth="18">
 				<BackGroundMap BGmap="main.dds">
 					<NorUV NorUVLeft="601" NorUVTop="98" NorUVWidth="56" NorUVHeight="18" />
 				</BackGroundMap>
@@ -86,7 +86,7 @@
 			</BaseWndProperty>
 
 			<Style CtrlType="131072" />
-			<BaseWndProperty WindowID="3003" WindowLeft="189" WindowTop="28" WindowHeight="56" WindowWidth="18">
+			<BaseWndProperty WindowID="3003" WindowLeft="143" WindowTop="28" WindowHeight="56" WindowWidth="18">
 				<BackGroundMap BGmap="main.dds">
 					<NorUV NorUVLeft="601" NorUVTop="98" NorUVWidth="56" NorUVHeight="18" />
 				</BackGroundMap>
