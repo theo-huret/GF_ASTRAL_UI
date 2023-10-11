@@ -1,6 +1,6 @@
 # Astral UI for Grand Fantasia
 
-Astral UI is a user interface make by VelvetRed and and updated by GalaGAla and Folklor for the MMORPG, Grand Fantasia. It enhances the in-game UI to provide a better gaming experience and improved aesthetics.
+Astral UI is a user interface make by VelvetRed and and updated by GalaGala and Folklor for the MMORPG, Grand Fantasia. It enhances the in-game UI to provide a better gaming experience and improved aesthetics.
 
 ## Features
 
