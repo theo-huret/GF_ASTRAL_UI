@@ -32,6 +32,6 @@ Astral UI is open-source and released under the [MIT License](LICENSE).
 
 We would like to thank the following contributors for their work on Astral UI:
 
--[VelvetRed] - Project Leader
+- VelvetRed - Project Leader
 - [GalaGala](https://github.com/theo-huret) - Project Redesign and rework
 - [Folklor](https://github.com/FolkloR33) - Project Redesign and rework
