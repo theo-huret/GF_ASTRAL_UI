@@ -12,7 +12,7 @@ Astral UI is a user interface make by VelvetRed and and updated by GalaGAla and 
 
 To install Astral UI, follow these steps:
 
-1. Download the latest release from the [Releases](https://github.com/theo-huret/Astral-UI/releases) page.
+1. Download the latest release from the [Releases](https://github.com/theo-huret/GF_ASTRAL_UI/releases) page.
 2. Extract the contents of the downloaded ZIP file to your Grand Fantasia UI directory.
 3. Launch the game and enjoy the new UI!
 
@@ -22,7 +22,7 @@ To install Astral UI, follow these steps:
 
 ## Support
 
-If you encounter any issues or have suggestions for improvements, please [create a new issue](https://github.com/theo-huret/Astral-UI/issues) on this repository.
+If you encounter any issues or have suggestions for improvements, please [create a new issue](https://github.com/theo-huret/GF_ASTRAL_UI/issues) on this repository.
 
 ## License
 
