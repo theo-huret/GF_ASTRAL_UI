@@ -8,19 +8,19 @@
 			<Style CtrlType="268435456" />
 			<BaseWndProperty WindowID="1000" WindowLeft="12" WindowTop="-57" WindowHeight="518" WindowWidth="20" >
 				<BackGroundMap BGmap="slot32_1.dds">
-					<NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="515" NorUVHeight="20" />
+					<NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="518" NorUVHeight="20" />
 				</BackGroundMap>
 			</BaseWndProperty>
 			<Style CtrlType="268435456" />
 			<BaseWndProperty WindowID="1010" WindowLeft="12" WindowTop="-37" WindowHeight="518" WindowWidth="197">
 				<BackGroundMap BGmap="slot32_1.dds">
-					<NorUV NorUVLeft="0" NorUVTop="50" NorUVWidth="515" NorUVHeight="50" />
+					<NorUV NorUVLeft="0" NorUVTop="50" NorUVWidth="518" NorUVHeight="50" />
 				</BackGroundMap>
 			</BaseWndProperty>
 			<Style CtrlType="268435456" />
 			<BaseWndProperty WindowID="1020" WindowLeft="12" WindowTop="160" WindowHeight="518" WindowWidth="20">
 				<BackGroundMap BGmap="slot32_1.dds">
-					<NorUV NorUVLeft="0" NorUVTop="217" NorUVWidth="515" NorUVHeight="20" />
+					<NorUV NorUVLeft="0" NorUVTop="217" NorUVWidth="518" NorUVHeight="20" />
 				</BackGroundMap>
 			</BaseWndProperty>
 			
@@ -208,13 +208,11 @@
 				</ButtonNode>
 			</BaseWndProperty>
 			<Style ParentNode="2999" CtrlType="16777216" />
-			<BaseWndProperty WindowID="5001" WindowLeft="57" WindowTop="0" WindowHeight="515" WindowWidth="237">
+			<BaseWndProperty WindowID="5001" WindowLeft="57" WindowTop="0" WindowHeight="518" WindowWidth="237">
 				<BackGroundMap BGmap="Slot32_1.dds" >
-					<NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="515" NorUVHeight="237" />
+					<NorUV NorUVWidth="518" NorUVHeight="237" />
 				</BackGroundMap>
-				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
-				<EditNode ReadOnly="1" />
-				<MultiEditNode />
+				
 			</BaseWndProperty>
 			<Style ParentNode="2999" CtrlType="2097152" />
 			<BaseWndProperty WindowID="3500" WindowLeft="577" WindowTop="177" WindowHeight="7" WindowWidth="53" Visible="1">
