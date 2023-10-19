@@ -210,8 +210,11 @@
 			<Style ParentNode="2999" CtrlType="16777216" />
 			<BaseWndProperty WindowID="5001" WindowLeft="57" WindowTop="0" WindowHeight="518" WindowWidth="237">
 				<BackGroundMap BGmap="Slot32_1.dds" >
-					<NorUV NorUVWidth="518" NorUVHeight="237" />
+					<NorUV NorUVLeft="0" NorUVTop="0" NorUVWidth="518" NorUVHeight="237" />
 				</BackGroundMap>
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<EditNode ReadOnly="1" />
+				<MultiEditNode />
 				
 			</BaseWndProperty>
 			<Style ParentNode="2999" CtrlType="2097152" />
